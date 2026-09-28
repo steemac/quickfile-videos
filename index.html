@@ -29,7 +29,7 @@ svg.i{width:16px;height:16px;flex:none;stroke:currentColor;fill:none;stroke-widt
 header.top{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:40}
 .top .wrap{display:flex;align-items:center;gap:28px;height:64px}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none}
-.brand b{font-weight:800;font-size:22px;letter-spacing:.06em;color:var(--blue)}
+.brand .logo{height:30px;width:auto;display:block}
 .badge{font-size:11px;font-weight:700;letter-spacing:.1em;color:var(--blue);background:var(--blue-50);border:1px solid var(--blue-100);padding:3px 9px;border-radius:6px}
 nav.links{display:flex;gap:22px;font-size:15px;font-weight:500}
 nav.links a{text-decoration:none;color:var(--ink-2);display:flex;align-items:center;gap:7px}
@@ -166,7 +166,7 @@ footer a{color:var(--ink-2)}
 
 <header class="top" id="top">
   <div class="wrap">
-    <a class="brand" href="#" data-home><b>QUICKFILE</b><span class="badge">VIDEOS</span></a>
+    <a class="brand" href="#" data-home><img src="logo.png" alt="QuickFile" class="logo"><span class="badge">VIDEOS</span></a>
     <nav class="links" id="navLinks"></nav>
     <div class="acct" id="acct"></div>
     <button class="menu-btn" aria-label="Menu" onclick="document.getElementById('top').classList.toggle('open')">
