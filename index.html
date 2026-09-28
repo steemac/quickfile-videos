@@ -1,0 +1,528 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QuickFile Video Guides</title>
+<meta name="description" content="Every QuickFile Help Guides video from YouTube, organised by topic and searchable.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --blue:#2f6be0; --blue-600:#2358c7; --blue-50:#eef3fd; --blue-100:#dbe6fb;
+  --ink:#141b2d; --ink-2:#3b4459; --muted:#6b7488; --line:#e3e7ef; --bg:#f6f8fb; --card:#fff;
+  --green:#1f9d55; --red:#e62117;
+  --hero:linear-gradient(115deg,#3063df 0%,#3b86e6 55%,#3aa6e8 100%);
+  --radius:14px; --shadow:0 10px 30px -12px rgba(20,40,90,.25);
+  --serif:"Source Serif 4",Georgia,serif; --sans:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:var(--sans);color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased;line-height:1.5}
+a{color:inherit}
+button{font:inherit;cursor:pointer}
+.wrap{max-width:1200px;margin:0 auto;padding:0 20px}
+svg.i{width:16px;height:16px;flex:none;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+/* Header */
+header.top{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:40}
+.top .wrap{display:flex;align-items:center;gap:28px;height:64px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+.brand b{font-weight:800;font-size:22px;letter-spacing:.06em;color:var(--blue)}
+.badge{font-size:11px;font-weight:700;letter-spacing:.1em;color:var(--blue);background:var(--blue-50);border:1px solid var(--blue-100);padding:3px 9px;border-radius:6px}
+nav.links{display:flex;gap:22px;font-size:15px;font-weight:500}
+nav.links a{text-decoration:none;color:var(--ink-2);display:flex;align-items:center;gap:7px}
+nav.links a:hover,nav.links a.on{color:var(--blue)}
+nav.links a.on{box-shadow:inset 0 -2px 0 var(--blue);padding-bottom:4px;margin-bottom:-6px}
+.yt-dot{width:20px;height:14px;background:var(--red);border-radius:4px;display:inline-grid;place-items:center}
+.yt-dot:after{content:"";border-left:6px solid #fff;border-top:4px solid transparent;border-bottom:4px solid transparent;margin-left:1px}
+.acct{margin-left:auto;display:flex;gap:10px}
+.btn{display:inline-flex;align-items:center;gap:8px;border-radius:9px;padding:9px 18px;font-weight:600;font-size:15px;text-decoration:none;border:1.5px solid var(--blue);transition:.15s}
+.btn.ghost{color:var(--blue);background:#fff}
+.btn.solid{color:#fff;background:var(--blue)}
+.btn.solid:hover{background:var(--blue-600);border-color:var(--blue-600)}
+.btn.ghost:hover{background:var(--blue-50)}
+.menu-btn{display:none;margin-left:auto;background:none;border:0;padding:8px;color:var(--ink)}
+
+/* Hero */
+.hero{background:var(--hero);color:#fff;text-align:center;padding:48px 0 120px}
+.pill{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,255,255,.45);background:rgba(255,255,255,.12);padding:8px 18px;border-radius:999px;font-size:13.5px;font-weight:600}
+.hero h1{font-family:var(--serif);font-weight:700;font-size:clamp(32px,4.6vw,50px);line-height:1.12;margin:24px auto 16px;max-width:820px;letter-spacing:-.01em}
+.hero p.lead{max-width:640px;margin:0 auto;font-size:17px;opacity:.95}
+.stats{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:24px}
+.stats span,.stats a{border:1px solid rgba(255,255,255,.45);background:rgba(255,255,255,.1);padding:7px 15px;border-radius:999px;font-size:13.5px;font-weight:600;text-decoration:none;color:#fff;display:inline-flex;gap:7px;align-items:center}
+.stats a:hover{background:rgba(255,255,255,.22)}
+
+/* Search card */
+.finder{background:#fff;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:18px;margin-top:-72px;position:relative;z-index:5}
+.row1{display:flex;gap:16px;align-items:center}
+.search{flex:1;display:flex;align-items:center;gap:10px;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:0 14px;height:50px}
+.search:focus-within{border-color:var(--blue);box-shadow:0 0 0 3px var(--blue-100)}
+.search input{border:0;background:none;outline:0;font:inherit;font-size:16px;flex:1;color:var(--ink);min-width:0}
+.search svg{color:var(--muted);width:18px;height:18px}
+.search .clear{border:0;background:none;color:var(--muted);padding:4px;display:none}
+.status{font-size:13.5px;color:var(--ink-2);display:flex;align-items:center;gap:8px;white-space:nowrap}
+.status i{width:8px;height:8px;border-radius:50%;background:var(--green);box-shadow:0 0 0 3px rgba(31,157,85,.15)}
+.row2{display:flex;gap:10px;align-items:center;margin-top:14px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;flex:1}
+.chip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:#fff;color:var(--ink-2);border-radius:999px;padding:7px 14px;font-size:14px;font-weight:500;transition:.15s}
+.chip:hover{border-color:var(--blue);color:var(--blue)}
+.chip.on{background:var(--blue);border-color:var(--blue);color:#fff;font-weight:600}
+.chip svg{width:14px;height:14px}
+select.sort{border:1px solid var(--line);border-radius:9px;padding:8px 12px;font:inherit;font-size:14px;color:var(--ink-2);background:#fff}
+
+/* Layout */
+.main{display:grid;grid-template-columns:250px 1fr;gap:28px;margin:26px auto 60px}
+aside.side{position:sticky;top:84px;align-self:start;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:10px;max-height:calc(100vh - 104px);overflow:auto}
+.side h4{margin:8px 10px 6px;font-size:11.5px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase}
+.side button{display:flex;width:100%;align-items:center;gap:10px;text-align:left;background:none;border:1px solid transparent;border-radius:9px;padding:8px 10px;font-size:14.5px;color:var(--ink-2)}
+.side button:hover{background:var(--bg)}
+.side button.on{background:var(--blue-50);border-color:var(--blue);color:var(--blue-600);font-weight:600}
+.side button .n{margin-left:auto;font-size:12px;color:var(--muted);background:var(--bg);border-radius:999px;padding:1px 8px}
+.side button.on .n{background:#fff}
+
+.crumb{display:inline-flex;gap:6px;align-items:center;color:var(--blue);font-weight:600;font-size:14.5px;background:none;border:0;padding:0}
+.eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.12em;color:var(--blue);text-transform:uppercase;margin:14px 0 4px}
+h2.title{font-family:var(--serif);font-size:32px;margin:0 0 8px;line-height:1.2}
+p.desc{color:var(--ink-2);margin:0 0 20px;max-width:720px}
+.sec{margin-bottom:40px;scroll-margin-top:90px}
+.sec-head{display:flex;align-items:end;justify-content:space-between;gap:16px;margin-bottom:14px}
+.sec-head h3{font-family:var(--serif);font-size:24px;margin:0}
+.sec-head p{margin:2px 0 0;color:var(--muted);font-size:14px}
+.more{background:none;border:0;color:var(--blue);font-weight:600;font-size:14px;white-space:nowrap;display:flex;align-items:center;gap:4px}
+
+/* Cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.card{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:.18s;cursor:pointer;text-align:left;padding:0}
+.card:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:var(--blue-100)}
+.card:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.thumb{position:relative;aspect-ratio:16/9;background:var(--blue-50);overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.thumb .ph{position:absolute;inset:0;background:var(--hero);display:grid;place-items:center;color:#fff;font-family:var(--serif);font-weight:700;font-size:17px;padding:18px;text-align:center;line-height:1.25}
+.thumb .dur{position:absolute;right:8px;bottom:8px;background:rgba(10,15,30,.82);color:#fff;font-size:12px;font-weight:600;padding:2px 7px;border-radius:5px}
+.thumb .new{position:absolute;left:8px;top:8px;background:#fff;color:var(--blue-600);font-size:11px;font-weight:800;letter-spacing:.06em;padding:3px 8px;border-radius:5px}
+.thumb .play{position:absolute;inset:0;display:grid;place-items:center;opacity:0;transition:.18s;background:rgba(10,20,50,.25)}
+.thumb .play span{width:56px;height:40px;border-radius:11px;background:var(--red);display:grid;place-items:center}
+.thumb .play span:after{content:"";border-left:15px solid #fff;border-top:9px solid transparent;border-bottom:9px solid transparent;margin-left:3px}
+.card:hover .play{opacity:1}
+.cbody{padding:13px 14px 15px;display:flex;flex-direction:column;gap:7px;flex:1}
+.cbody h5{margin:0;font-size:15.5px;font-weight:600;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta{font-size:13px;color:var(--muted);margin-top:auto;display:flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:12px;color:var(--blue-600);background:var(--blue-50);border-radius:5px;padding:2px 8px;align-self:flex-start;font-weight:500}
+mark{background:#fff1a8;color:inherit;border-radius:2px;padding:0 1px}
+
+.empty{background:#fff;border:1px dashed var(--line);border-radius:var(--radius);padding:40px;text-align:center;color:var(--ink-2)}
+.notice{background:#fff8e6;border:1px solid #f3dc9b;color:#6b5200;border-radius:12px;padding:12px 16px;font-size:14px;margin:18px 0 0;display:flex;gap:10px;align-items:flex-start}
+.notice code{background:rgba(0,0,0,.06);padding:1px 5px;border-radius:4px}
+
+/* Modal */
+.modal{position:fixed;inset:0;background:rgba(10,16,32,.72);display:none;align-items:center;justify-content:center;z-index:100;padding:20px}
+.modal.open{display:flex}
+.dialog{background:#fff;border-radius:16px;width:min(1000px,100%);max-height:calc(100vh - 40px);overflow:auto;box-shadow:0 30px 80px rgba(0,0,0,.4)}
+.player{aspect-ratio:16/9;background:#000;position:relative}
+.player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.player .ph{position:absolute;inset:0;display:grid;place-items:center;color:#fff;text-align:center;padding:20px;background:var(--hero)}
+.dbody{padding:20px 24px 26px;display:grid;grid-template-columns:1fr 280px;gap:26px}
+.dbody h3{font-family:var(--serif);font-size:24px;margin:0 0 6px;line-height:1.25}
+.dbody .meta{margin:0 0 14px}
+.dbody .text{white-space:pre-line;color:var(--ink-2);font-size:14.5px;max-height:220px;overflow:auto;border-top:1px solid var(--line);padding-top:12px}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+.btn.yt{background:var(--red);border-color:var(--red);color:#fff}
+.btn.yt:hover{filter:brightness(.92)}
+.related h4{margin:0 0 10px;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.rel{display:flex;gap:10px;background:none;border:0;padding:6px;border-radius:9px;text-align:left;width:100%}
+.rel:hover{background:var(--bg)}
+.rel img,.rel .rph{width:112px;aspect-ratio:16/9;object-fit:cover;border-radius:6px;flex:none;background:var(--hero)}
+.rel span{font-size:13.5px;font-weight:500;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.close{position:fixed;top:14px;right:18px;background:#fff;border:0;border-radius:50%;width:40px;height:40px;display:grid;place-items:center;box-shadow:0 4px 14px rgba(0,0,0,.3)}
+
+footer{border-top:1px solid var(--line);background:#fff;padding:28px 0;color:var(--muted);font-size:14px}
+footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer a{color:var(--ink-2)}
+
+@media (max-width:900px){
+  .main{grid-template-columns:1fr}
+  aside.side{display:none}
+  .dbody{grid-template-columns:1fr}
+  nav.links,.acct{display:none}
+  .menu-btn{display:block}
+  header.top.open .wrap{flex-wrap:wrap;height:auto;padding-top:12px;padding-bottom:12px}
+  header.top.open nav.links,header.top.open .acct{display:flex;width:100%;flex-wrap:wrap}
+  header.top.open .acct{margin-left:0}
+}
+@media (max-width:640px){
+  .wrap{padding:0 16px}
+  .row1{flex-direction:column;align-items:stretch;gap:10px}
+  .row2{flex-direction:column;align-items:stretch}
+  .chips{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px}
+  .chip{white-space:nowrap}
+  .hero{padding:36px 0 110px}
+  h2.title{font-size:26px}
+}
+</style>
+</head>
+<body>
+
+<header class="top" id="top">
+  <div class="wrap">
+    <a class="brand" href="#" data-home><b>QUICKFILE</b><span class="badge">VIDEOS</span></a>
+    <nav class="links" id="navLinks"></nav>
+    <div class="acct" id="acct"></div>
+    <button class="menu-btn" aria-label="Menu" onclick="document.getElementById('top').classList.toggle('open')">
+      <svg class="i" style="width:24px;height:24px" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <span class="pill"><svg class="i" viewBox="0 0 24 24"><path d="M23 7l-7 5 7 5V7z"/><rect x="1" y="5" width="15" height="14" rx="2"/></svg>QuickFile Help Guides &bull; Updated From YouTube</span>
+    <h1>Every QuickFile Video Guide, Organised In One Place</h1>
+    <p class="lead">Short, practical walkthroughs from the QuickFile Help Guides channel, sorted by topic so you can find the answer you need and watch it straight away.</p>
+    <div class="stats" id="stats"></div>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="finder">
+    <div class="row1">
+      <label class="search">
+        <svg class="i" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Search videos, e.g. bank feed, VAT return, credit note..." autocomplete="off">
+        <button class="clear" id="clear" aria-label="Clear search"><svg class="i" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"/></svg></button>
+      </label>
+      <div class="status" id="status"><i></i><span>Loading videos...</span></div>
+    </div>
+    <div class="row2">
+      <div class="chips" id="chips"></div>
+      <select class="sort" id="sort" aria-label="Sort videos">
+        <option value="suggested">Suggested order</option>
+        <option value="new">Newest first</option>
+        <option value="old">Oldest first</option>
+        <option value="views">Most viewed</option>
+        <option value="az">A to Z</option>
+      </select>
+    </div>
+  </div>
+  <div id="notice"></div>
+
+  <div class="main">
+    <aside class="side" id="side"></aside>
+    <main id="content"></main>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>&copy; <span id="yr"></span> QuickFile. All videos are hosted on <a id="chLink" href="#" target="_blank" rel="noopener">YouTube</a>.</span>
+    <span id="updated"></span>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+  <button class="close" id="mClose" aria-label="Close"><svg class="i" style="width:20px;height:20px" viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"/></svg></button>
+  <div class="dialog" id="dialog"></div>
+</div>
+
+<script src="topics.js"></script>
+<script src="videos.js"></script>
+<script>
+/* ===================== SETTINGS ===================== */
+const SITE = {
+  // "embed"   = play inside this page using YouTube's own player (plays count as YouTube views)
+  // "youtube" = clicking a video opens it on youtube.com in a new tab
+  playMode: "embed",
+  channelUrl: "https://www.youtube.com/@QuickFileHelpGuides",
+  subscribeUrl: "https://www.youtube.com/@QuickFileHelpGuides?sub_confirmation=1",
+  newDays: 30,            // "NEW" badge for videos published in the last N days
+  perSection: 6,          // videos shown per topic on the "All videos" page
+  nav: [
+    { label: "Videos",    href: "#", on: true },
+    { label: "Support",   href: "https://www.quickfile.co.uk/support" },
+    { label: "Community", href: "https://community.quickfile.co.uk" },
+    { label: "YouTube",   href: "https://www.youtube.com/@QuickFileHelpGuides", yt: true }
+  ],
+  signUp: "https://www.quickfile.co.uk/account/create",
+  logIn:  "https://www.quickfile.co.uk/account/logon"
+};
+/* ==================================================== */
+
+const ICONS = {
+  all:'<rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/>',
+  rocket:'<path d="M5 15c-1.5 1.5-2 5-2 5s3.5-.5 5-2"/><path d="M9 15l-3-3a15 15 0 0 1 12-9 15 15 0 0 1-9 12z"/><circle cx="15" cy="9" r="1.5"/>',
+  invoice:'<path d="M6 2h9l5 5v15H6z"/><path d="M14 2v6h6M9 13h8M9 17h5"/>',
+  cart:'<circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/><path d="M2 3h3l3 12h11l2-8H6"/>',
+  bank:'<path d="M3 10l9-6 9 6M5 10v8M10 10v8M14 10v8M19 10v8M3 21h18"/>',
+  tax:'<path d="M19 5L5 19"/><circle cx="7" cy="7" r="2.5"/><circle cx="17" cy="17" r="2.5"/>',
+  home:'<path d="M3 11l9-7 9 7v10H3z"/><path d="M9 21v-6h6v6"/>',
+  chart:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+  plug:'<path d="M9 2v6M15 2v6M6 8h12v4a6 6 0 0 1-12 0zM12 18v4"/>',
+  users:'<circle cx="9" cy="8" r="3.5"/><path d="M2 20a7 7 0 0 1 14 0M16 4.5a3.5 3.5 0 0 1 0 7M22 20a7 7 0 0 0-5-6.7"/>',
+  play:'<circle cx="12" cy="12" r="9"/><path d="M10 8.5l5 3.5-5 3.5z"/>',
+  back:'<path d="M19 12H5M11 18l-6-6 6-6"/>',
+  arrow:'<path d="M5 12h14M13 6l6 6-6 6"/>',
+  ext:'<path d="M14 4h6v6M20 4l-9 9M18 14v6H4V6h6"/>',
+  bell:'<path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10 21h4"/>'
+};
+const icon = (n, s) => `<svg class="i" viewBox="0 0 24 24"${s ? ` style="width:${s}px;height:${s}px"` : ""}>${ICONS[n] || ICONS.play}</svg>`;
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const $ = id => document.getElementById(id);
+
+const CFG = window.QF_TOPICS || { topics: [], fallback: { id: "more", name: "More guides" }, overrides: {}, hidden: [] };
+const DATA = window.QF_VIDEOS || { videos: [] };
+const TOPICS = [...CFG.topics, CFG.fallback];
+const TOPIC_BY_ID = Object.fromEntries(TOPICS.map(t => [t.id, t]));
+const hidden = new Set(CFG.hidden || []);
+
+function classify(v) {
+  const o = (CFG.overrides || {})[v.id];
+  if (o && TOPIC_BY_ID[o]) return o;
+  const title = v.title.toLowerCase();
+  const body = (v.description + " " + (v.tags || []).join(" ")).toLowerCase();
+  let best = null, bestScore = 0;
+  for (const t of CFG.topics) {
+    let s = 0;
+    for (const k of t.keywords || []) {
+      const kw = k.toLowerCase();
+      if (title.includes(kw)) s += 3;
+      if (body.includes(kw)) s += 1;
+    }
+    if (s > bestScore) { best = t.id; bestScore = s; }
+  }
+  return best || CFG.fallback.id;
+}
+
+const VIDEOS = (DATA.videos || []).filter(v => !hidden.has(v.id)).map(v => ({
+  ...v, topic: classify(v), ts: Date.parse(v.published) || 0,
+  hay: (v.title + " " + v.description + " " + (v.tags || []).join(" ")).toLowerCase()
+}));
+const BY_ID = Object.fromEntries(VIDEOS.map(v => [v.id, v]));
+const counts = {};
+VIDEOS.forEach(v => counts[v.topic] = (counts[v.topic] || 0) + 1);
+const USED = TOPICS.filter(t => counts[t.id]);
+
+const state = { topic: "all", q: "", sort: "old" };  // default sort: "old", "new", "suggested", "views" or "az"
+const ORDER = {};
+for (const [tid, ids] of Object.entries(CFG.order || {})) ids.forEach((id, i) => ORDER[id] = { tid, i });
+
+/* ---------- formatting ---------- */
+const fmtDate = ts => ts ? new Date(ts).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) : "";
+const fmtDur = s => { if (s == null) return ""; const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = String(s % 60).padStart(2, "0"); return h ? `${h}:${String(m).padStart(2, "0")}:${x}` : `${m}:${x}`; };
+const fmtViews = n => n == null ? "" : (n >= 1e6 ? (n / 1e6).toFixed(1).replace(/\.0$/, "") + "M" : n >= 1e3 ? (n / 1e3).toFixed(1).replace(/\.0$/, "") + "K" : n) + (n === 1 ? " view" : " views");
+const ytUrl = id => `https://www.youtube.com/watch?v=${encodeURIComponent(id)}`;
+const thumbUrl = v => v.thumbnail || `https://i.ytimg.com/vi/${encodeURIComponent(v.id)}/mqdefault.jpg`;
+const isNew = v => v.ts && (Date.now() - v.ts) < SITE.newDays * 864e5;
+function hl(text) {
+  const t = esc(text);
+  if (!state.q) return t;
+  const words = state.q.trim().split(/\s+/).filter(w => w.length > 1).map(w => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+  return words.length ? t.replace(new RegExp(`(${words.join("|")})`, "gi"), "<mark>$1</mark>") : t;
+}
+
+/* ---------- filtering ---------- */
+function sortList(list, sortBy) {
+  const s = sortBy || state.sort;
+  const rank = v => { const o = ORDER[v.id]; return o && o.tid === v.topic ? o.i : Infinity; };
+  return [...list].sort((a, b) =>
+    s === "suggested" && rank(a) !== rank(b) ? (rank(a) < rank(b) ? -1 : 1) :
+    s === "old" ? a.ts - b.ts : s === "views" ? (b.views || 0) - (a.views || 0) : s === "az" ? a.title.localeCompare(b.title) : b.ts - a.ts);
+}
+function matches(v) {
+  if (!state.q) return true;
+  return state.q.toLowerCase().trim().split(/\s+/).every(w => v.hay.includes(w));
+}
+function filtered(topic) {
+  // Suggested order only applies inside a topic; mixed lists fall back to newest first.
+  const by = state.sort === "suggested" && (topic === "all" || state.q) ? "new" : state.sort;
+  return sortList(VIDEOS.filter(v => (topic === "all" || v.topic === topic) && matches(v)), by);
+}
+
+/* ---------- rendering ---------- */
+function card(v, showTag) {
+  const t = TOPIC_BY_ID[v.topic];
+  const inner = `
+    <div class="thumb">
+      ${DATA.sample ? `<div class="ph">${esc(v.title)}</div>` : `<img loading="lazy" src="${esc(thumbUrl(v))}" alt="">`}
+      ${isNew(v) ? '<span class="new">NEW</span>' : ""}
+      ${v.duration != null ? `<span class="dur">${fmtDur(v.duration)}</span>` : ""}
+      <div class="play"><span></span></div>
+    </div>
+    <div class="cbody">
+      <h5>${hl(v.title)}</h5>
+      ${showTag && t ? `<span class="tag">${esc(t.name)}</span>` : ""}
+      <div class="meta">${[fmtDate(v.ts), fmtViews(v.views)].filter(Boolean).join(" &middot; ")}</div>
+    </div>`;
+  return SITE.playMode === "youtube" && !DATA.sample
+    ? `<a class="card" href="${ytUrl(v.id)}" target="_blank" rel="noopener">${inner}</a>`
+    : `<button class="card" data-v="${esc(v.id)}">${inner}</button>`;
+}
+
+function renderChrome() {
+  $("navLinks").innerHTML = SITE.nav.map(n =>
+    `<a href="${esc(n.href)}"${n.on ? ' class="on" data-home' : ' target="_blank" rel="noopener"'}>${n.yt ? '<span class="yt-dot"></span>' : ""}${esc(n.label)}</a>`).join("");
+  $("acct").innerHTML = `<a class="btn ghost" href="${esc(SITE.signUp)}">Sign Up</a>
+    <a class="btn solid" href="${esc(SITE.logIn)}"><svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>Log In</a>`;
+  $("stats").innerHTML = `
+    <span>${VIDEOS.length} videos under ${USED.length} topics</span>
+    <span>New uploads added automatically</span>
+    <span>Free to watch</span>
+    <a href="${esc(SITE.subscribeUrl)}" target="_blank" rel="noopener">${icon("bell", 14)}Subscribe on YouTube</a>`;
+  const gen = DATA.generated ? fmtDate(Date.parse(DATA.generated)) : "";
+  const latest = VIDEOS.reduce((m, v) => Math.max(m, v.ts), 0);
+  $("status").innerHTML = VIDEOS.length
+    ? `<i></i><span>${VIDEOS.length} videos &middot; newest ${fmtDate(latest)}</span>`
+    : `<i style="background:#d99a00"></i><span>No videos loaded yet</span>`;
+  $("updated").textContent = gen ? `Video list last updated ${gen}` : "";
+  $("yr").textContent = new Date().getFullYear();
+  $("chLink").href = SITE.channelUrl;
+  if (DATA.sample) $("notice").innerHTML = `<div class="notice">${icon("play", 18)}<div><b>Showing sample videos.</b> Run <code>update-videos</code> to load the real videos from your YouTube channel. The README explains how.</div></div>`;
+}
+
+function renderNav() {
+  const items = [{ id: "all", name: "All videos", icon: "all" }, ...USED];
+  const n = id => id === "all" ? VIDEOS.length : counts[id];
+  $("chips").innerHTML = items.map(t =>
+    `<button class="chip${state.topic === t.id ? " on" : ""}" data-t="${t.id}">${icon(t.icon)}${esc(t.id === "all" ? "All videos" : t.name)}</button>`).join("");
+  $("side").innerHTML = `<h4>Topics</h4>` + items.map(t =>
+    `<button class="${state.topic === t.id ? "on" : ""}" data-t="${t.id}">${icon(t.icon)}<span>${esc(t.name)}</span><span class="n">${n(t.id)}</span></button>`).join("");
+}
+
+function renderContent() {
+  const el = $("content");
+  if (!VIDEOS.length) {
+    el.innerHTML = `<div class="empty"><h3>No videos yet</h3><p>Run <b>update-videos</b> to fetch the list from YouTube.</p></div>`;
+    return;
+  }
+  if (state.topic !== "all") {
+    const t = TOPIC_BY_ID[state.topic];
+    const list = filtered(state.topic);
+    el.innerHTML = `
+      <button class="crumb" data-t="all">${icon("back")}All videos</button>
+      <div class="eyebrow">${counts[t.id]} video${counts[t.id] === 1 ? "" : "s"}</div>
+      <h2 class="title">${esc(t.name)}</h2>
+      <p class="desc">${esc(t.description || "")}</p>
+      ${list.length ? `<div class="grid">${list.map(v => card(v)).join("")}</div>` : noResults()}`;
+    return;
+  }
+  if (state.q) {
+    const list = filtered("all");
+    el.innerHTML = `<div class="eyebrow">Search results</div>
+      <h2 class="title">${list.length} video${list.length === 1 ? "" : "s"} for &ldquo;${esc(state.q)}&rdquo;</h2>
+      ${list.length ? `<div class="grid" style="margin-top:18px">${list.map(v => card(v, true)).join("")}</div>` : noResults()}`;
+    return;
+  }
+  const latest = sortList(VIDEOS, "new").slice(0, 3);
+  const latestSec = state.sort !== "views" && state.sort !== "az" ? `
+    <section class="sec">
+      <div class="sec-head"><div><h3>Latest videos</h3><p>The newest uploads from the channel</p></div></div>
+      <div class="grid">${latest.map(v => card(v, true)).join("")}</div>
+    </section>` : "";
+  el.innerHTML = latestSec + USED.map(t => {
+    const list = filtered(t.id);
+    return `<section class="sec" id="sec-${t.id}">
+      <div class="sec-head">
+        <div><h3>${esc(t.name)}</h3><p>${esc(t.description || "")}</p></div>
+        ${list.length > SITE.perSection ? `<button class="more" data-t="${t.id}">See all ${list.length} ${icon("arrow", 14)}</button>` : ""}
+      </div>
+      <div class="grid">${list.slice(0, SITE.perSection).map(v => card(v)).join("")}</div>
+    </section>`;
+  }).join("");
+}
+function noResults() {
+  return `<div class="empty">No videos match &ldquo;${esc(state.q)}&rdquo;. Try fewer words, or <button class="more" style="display:inline" data-clear>clear the search</button>.</div>`;
+}
+
+function render() { renderNav(); renderContent(); }
+
+/* ---------- player ---------- */
+let lastFocus = null;
+function openVideo(id, push = true) {
+  const v = BY_ID[id]; if (!v) return;
+  lastFocus = document.activeElement;
+  const t = TOPIC_BY_ID[v.topic];
+  const rel = sortList(VIDEOS.filter(x => x.topic === v.topic && x.id !== v.id)).slice(0, 5);
+  const player = DATA.sample
+    ? `<div class="ph"><div><b>Sample video</b><br>Real videos will play here once the updater has run.</div></div>`
+    : `<iframe src="https://www.youtube.com/embed/${encodeURIComponent(v.id)}?autoplay=1&rel=0&modestbranding=1" title="${esc(v.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`;
+  $("dialog").innerHTML = `
+    <div class="player">${player}</div>
+    <div class="dbody">
+      <div>
+        <h3 id="mTitle">${esc(v.title)}</h3>
+        <div class="meta">${[t ? esc(t.name) : "", fmtDate(v.ts), fmtViews(v.views), v.duration != null ? fmtDur(v.duration) : ""].filter(Boolean).join(" &middot; ")}</div>
+        <div class="actions">
+          <a class="btn yt" href="${ytUrl(v.id)}" target="_blank" rel="noopener">${icon("ext")}Watch on YouTube</a>
+          <a class="btn ghost" href="${esc(SITE.subscribeUrl)}" target="_blank" rel="noopener">${icon("bell")}Subscribe</a>
+        </div>
+        ${v.description ? `<div class="text">${esc(v.description)}</div>` : ""}
+      </div>
+      ${rel.length ? `<div class="related"><h4>More in ${esc(t.name)}</h4>${rel.map(r =>
+        `<button class="rel" data-v="${esc(r.id)}">${DATA.sample ? '<div class="rph"></div>' : `<img loading="lazy" src="${esc(thumbUrl(r))}" alt="">`}<span>${esc(r.title)}</span></button>`).join("")}</div>` : ""}
+    </div>`;
+  $("modal").classList.add("open");
+  document.body.style.overflow = "hidden";
+  $("mClose").focus();
+  if (push) history.pushState(null, "", "#v=" + encodeURIComponent(id));
+}
+function closeVideo(push = true) {
+  if (!$("modal").classList.contains("open")) return;
+  $("modal").classList.remove("open");
+  $("dialog").innerHTML = "";
+  document.body.style.overflow = "";
+  if (push) history.pushState(null, "", state.topic === "all" ? location.pathname + location.search : "#topic=" + state.topic);
+  if (lastFocus) lastFocus.focus();
+}
+
+/* ---------- routing ---------- */
+function setTopic(id, push = true) {
+  state.topic = id;
+  render();
+  if (push) history.pushState(null, "", id === "all" ? location.pathname + location.search : "#topic=" + id);
+  const f = document.querySelector(".finder");
+  if (window.scrollY > f.offsetTop) window.scrollTo({ top: f.offsetTop - 80, behavior: "smooth" });
+}
+function fromHash() {
+  const h = new URLSearchParams(location.hash.slice(1));
+  const topic = h.get("topic");
+  state.topic = topic && TOPIC_BY_ID[topic] ? topic : "all";
+  render();
+  const v = h.get("v");
+  if (v && BY_ID[v]) {
+    state.topic = BY_ID[v].topic === state.topic ? state.topic : state.topic;
+    openVideo(v, false);
+  } else closeVideo(false);
+}
+
+/* ---------- events ---------- */
+document.addEventListener("click", e => {
+  const home = e.target.closest("[data-home]");
+  if (home) { e.preventDefault(); state.q = ""; $("q").value = ""; $("clear").style.display = "none"; setTopic("all"); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
+  const t = e.target.closest("[data-t]");
+  if (t) { setTopic(t.dataset.t); return; }
+  const v = e.target.closest("[data-v]");
+  if (v) { openVideo(v.dataset.v); return; }
+  if (e.target.closest("[data-clear]")) { $("q").value = ""; state.q = ""; $("clear").style.display = "none"; render(); return; }
+});
+$("modal").addEventListener("click", e => { if (e.target.id === "modal") closeVideo(); });
+$("mClose").addEventListener("click", () => closeVideo());
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") closeVideo();
+  if (e.key === "/" && document.activeElement.tagName !== "INPUT") { e.preventDefault(); $("q").focus(); }
+});
+let timer;
+$("q").addEventListener("input", e => {
+  clearTimeout(timer);
+  $("clear").style.display = e.target.value ? "block" : "none";
+  timer = setTimeout(() => { state.q = e.target.value.trim(); renderContent(); }, 120);
+});
+$("clear").addEventListener("click", e => { e.preventDefault(); $("q").value = ""; state.q = ""; $("clear").style.display = "none"; renderContent(); $("q").focus(); });
+$("sort").value = state.sort;
+$("sort").addEventListener("change", e => { state.sort = e.target.value; renderContent(); });
+window.addEventListener("popstate", fromHash);
+
+renderChrome();
+fromHash();
+</script>
+</body>
+</html>
