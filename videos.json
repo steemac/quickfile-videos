@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T11:07:47.697Z",
+  "generated": "2026-10-03T10:25:51.211Z",
   "source": "api",
   "channel": {
     "id": "UCsztsJV-92UraKrJ90cBTOg",
@@ -7,8 +7,161 @@
     "url": "https://www.youtube.com/@QuickFileHelpGuides",
     "subscribers": 14
   },
-  "count": 64,
+  "count": 70,
   "videos": [
+    {
+      "id": "Bb3ltqJaclM",
+      "title": "QuickFile Invoice & Estimate Line Settings Explained",
+      "description": "In this QuickFile support video, you will learn how to customise invoice and estimate line settings to better manage your accounts. Discover how to access the line settings cog icon, assign nominal ledger categories for accurate financial tracking, and insert page breaks and sub-totals to organise your PDF documents.\n\nThe video also covers converting lines to comment lines, which is useful for adding notes or section headings within your invoices or estimates. These features help you create clearer, more detailed financial documents using QuickFile.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Access Invoice Line Settings\n00:41 Category Selection\n01:05 Create Custom Sales Codes\n01:30 Insert Page Break\n01:50 Insert Sub-total\n02:12 Convert to Comment Line\n02:31 Summary & Key Takeaways\n02:44 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/invoice-and-estimate-line-settings/20509\n\nFor additional QuickFile help and guides, please visit our support resources and explore more videos on our channel.\n\n#QuickFile #InvoiceSettings #Accounting #SmallBusiness #FinanceTips",
+      "published": "2026-10-03T09:45:02Z",
+      "duration": 166,
+      "views": 0,
+      "thumbnail": "https://i.ytimg.com/vi/Bb3ltqJaclM/mqdefault.jpg",
+      "tags": [
+        "QuickFile accounting software",
+        "QuickFile comment lines",
+        "QuickFile estimate line settings",
+        "QuickFile guide",
+        "QuickFile help video",
+        "QuickFile invoice settings",
+        "QuickFile page breaks",
+        "QuickFile sub-totals",
+        "QuickFile support",
+        "QuickFile tutorial",
+        "assign nominal ledger QuickFile",
+        "financial reporting QuickFile",
+        "invoice customisation QuickFile",
+        "small business invoicing"
+      ]
+    },
+    {
+      "id": "0rHqxxJJs2E",
+      "title": "QuickFile Client Statements Management Explained",
+      "description": "In this QuickFile support video, learn how to manage client statements effectively to keep your accounts organised and improve credit control. We cover viewing and printing client statements, understanding their contents, adding custom notes, and applying filters to tailor your views.\n\nDiscover how to send statements via email or post, set up recurring statement schedules for automatic dispatch, and save your display preferences for future use. This guide ensures you make the most of QuickFile's client statement features to streamline your invoicing and payment processes.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:19 What is a Client Statement?\n00:42 How to access Client Statements\n01:06 What Appears on the Statement?\n01:26 Apply Filters and Currency Display\n01:50 Add Custom Notes\n02:14 Overdue Invoice Warnings\n02:34 Emailing Client Statements\n02:57 Recurring Statement Emails\n03:24 Posting Statements by Snail Mail\n03:44 Save Your Preferences\n04:03 Summary & Key Takeaways\n04:17 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/client-statements-management/8922\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other support videos.\n\n#QuickFile #ClientStatements #Accounting #Invoicing #CreditControl",
+      "published": "2026-10-03T09:30:36Z",
+      "duration": 271,
+      "views": 0,
+      "thumbnail": "https://i.ytimg.com/vi/0rHqxxJJs2E/mqdefault.jpg",
+      "tags": [
+        "QuickFile",
+        "QuickFile invoicing",
+        "QuickFile support",
+        "QuickFile tutorial",
+        "accounting software",
+        "accounting tips",
+        "client statements",
+        "credit control",
+        "email client statements",
+        "invoice management",
+        "post client statements",
+        "recurring statements",
+        "send client statements",
+        "small business accounting"
+      ]
+    },
+    {
+      "id": "9FvB8ddgtWw",
+      "title": "QuickFile Pre-Acceptance Notifications for Invoices & Estimates",
+      "description": "In this QuickFile support video, you will learn how to use pre-acceptance notifications to ensure your clients actively review and agree to important business terms before accepting quotes or paying invoices online. We cover how these notifications appear for estimates and invoices, how to set them up in the Design Customisation settings, and how client acknowledgements are recorded for compliance.\n\nYou will also discover how to trigger notifications selectively when supplementary pages, such as contracts or legal disclosures, are attached to your documents. This video provides a clear overview of the entire process to help you maintain transparency and protect your business.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:16 Purpose of Notifications\n00:35 When Notifications Appear\n00:55 Setting Up Notifications\n01:13 Supplementary Pages\n01:36 Acknowledgement Recording\n01:55 Summary & Key Takeaways\n02:09 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/pre-acceptance-notifications-for-invoices-and-estimates/16721\n\nFor additional QuickFile help and guides, please visit our support resources and other videos on the QuickFile channel.\n\n#QuickFile #InvoiceManagement #ClientNotifications #AccountingSoftware #BusinessCompliance",
+      "published": "2026-10-03T09:15:12Z",
+      "duration": 143,
+      "views": 0,
+      "thumbnail": "https://i.ytimg.com/vi/9FvB8ddgtWw/mqdefault.jpg",
+      "tags": [
+        "QuickFile",
+        "QuickFile invoices",
+        "QuickFile support",
+        "QuickFile tutorial",
+        "accounting software UK",
+        "business terms",
+        "client acknowledgements",
+        "estimate notifications",
+        "invoice notifications",
+        "invoice payment",
+        "invoice workflow",
+        "legal disclosures",
+        "payment terms",
+        "pre-acceptance notifications",
+        "supplementary pages"
+      ]
+    },
+    {
+      "id": "YqyMqrkm7QE",
+      "title": "QuickFile: How to Import Invoices Between Accounts",
+      "description": "In this QuickFile support video, you will learn how to import invoices from one QuickFile account to another efficiently. We cover both manual and automatic import processes, including how to preview invoices, confirm supplier details, and set up auto-import rules to save time on recurring bills.\n\nDiscover how imported invoices are clearly identified with a blue banner and event log entry, and learn about the limitations of the auto-import feature, such as currency restrictions and processing times. You will also see how to manage and audit your import rules within QuickFile’s reporting tools.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:15 Invoice Link and Import Button\n00:39 Manual Import Process\n01:05 Imported Invoice Identification\n01:29 Auto-Import Option\n01:52 Auto-Import Limitations\n02:14 View Auto-Import Rules\n02:43 Summary & Key Takeaways\n03:00 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/importing-an-invoice-from-one-quickfile-account-to-another/34732\n\nFor additional QuickFile help and guides, please visit our support resources and explore our other videos.\n\n#QuickFile #InvoiceImport #AccountingSoftware #SmallBusiness #Bookkeeping",
+      "published": "2026-10-03T09:15:07Z",
+      "duration": 181,
+      "views": 0,
+      "thumbnail": "https://i.ytimg.com/vi/YqyMqrkm7QE/mqdefault.jpg",
+      "tags": [
+        "QuickFile auto import setup",
+        "QuickFile auto-import",
+        "QuickFile import rules",
+        "QuickFile invoice import",
+        "QuickFile invoice link",
+        "QuickFile invoice management",
+        "QuickFile manual import",
+        "QuickFile purchase ledger",
+        "QuickFile supplier invoices",
+        "QuickFile support",
+        "QuickFile tutorial",
+        "accounting software tutorial",
+        "import invoices QuickFile",
+        "purchase invoice import",
+        "small business bookkeeping"
+      ]
+    },
+    {
+      "id": "ZeokqaEDc7E",
+      "title": "QuickFile Product and Time Based Invoicing Explained",
+      "description": "In this QuickFile support video, you will learn how to set up and manage product and time-based invoicing effectively. Discover how to choose your default invoice type, mix product and time entries on the same invoice, and change your invoice preferences at any time.\n\nWe also cover how to add new invoice lines for both products and time-based services, and how to use inventory templates to speed up your billing process. This video is ideal for users who want to streamline their invoicing workflow using QuickFile.\n\nTimestamps:\n00:00 Title\n00:08 What We Cover\n00:17 Invoice Types\n00:38 Examples of Invoice Entries\n00:59 Change Default Invoice Type\n01:20 Mix Items and Time\n01:40 Add New Line Options\n01:59 Use Inventory Templates\n02:24 Summary & Key Takeaways\n02:38 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/product-and-time-based-invoicing/8925\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other support videos.\n\n#QuickFile #Invoicing #TimeBilling #ProductInvoicing #AccountingSoftware",
+      "published": "2026-10-03T09:00:36Z",
+      "duration": 162,
+      "views": 0,
+      "thumbnail": "https://i.ytimg.com/vi/ZeokqaEDc7E/mqdefault.jpg",
+      "tags": [
+        "QuickFile accounting",
+        "QuickFile help",
+        "QuickFile inventory templates",
+        "QuickFile invoice templates",
+        "QuickFile invoicing",
+        "QuickFile support",
+        "QuickFile tutorial",
+        "billing software UK",
+        "how to invoice QuickFile",
+        "invoice customization QuickFile",
+        "mix product and time invoicing",
+        "product based invoicing",
+        "time based invoicing",
+        "time tracking invoicing"
+      ]
+    },
+    {
+      "id": "sLUoWnrrtmo",
+      "title": "How to Clear Your QuickFile Account Data Safely",
+      "description": "In this QuickFile support video, you will learn how to clear your account data effectively and safely. We cover how to locate the account clearing tool, the options available for clearing your financial records, and the important differences between clearing your data and permanently deleting your account.\n\nYou will also find guidance on data retention, GDPR compliance with the Right to be Forgotten, and what settings remain after clearing your data. This video ensures you understand the irreversible nature of clearing your account and how to prepare by exporting backups.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:18 Account Clearing Tool\n00:40 Clearing Options\n01:01 Irreversible Action\n01:17 Account Clearing vs Deletion\n01:37 GDPR Right to be Forgotten\n01:56 What is Not Removed\n02:14 Summary & Key Takeaways\n02:26 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/how-do-i-clear-my-account/8898\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other support videos.\n\n#QuickFile #AccountClearing #Bookkeeping #DataDeletion #GDPR",
+      "published": "2026-10-03T09:00:35Z",
+      "duration": 158,
+      "views": 0,
+      "thumbnail": "https://i.ytimg.com/vi/sLUoWnrrtmo/mqdefault.jpg",
+      "tags": [
+        "QuickFile GDPR right to be forgotten",
+        "QuickFile account clearing",
+        "QuickFile account deletion",
+        "QuickFile account settings",
+        "QuickFile bookkeeping reset",
+        "QuickFile data retention",
+        "QuickFile delete financial records",
+        "QuickFile export data",
+        "QuickFile financial records",
+        "QuickFile guide",
+        "QuickFile invoice management",
+        "QuickFile support",
+        "QuickFile tutorial",
+        "clear QuickFile account",
+        "how to clear QuickFile data"
+      ]
+    },
     {
       "id": "Bs-_fkTB2aE",
       "title": "Customising Your Invoice Design with QuickFile",
@@ -66,7 +219,7 @@
       "description": "In this QuickFile support video, learn how to use the Multi-Invoice Entry Form to quickly input up to fifty sales or purchase invoices in one screen. We cover how to start the bulk entry form, enter invoice details efficiently, and use advanced options for Affinity users. You will also discover how to flag invoices as paid and streamline your bookkeeping process.\n\nThis video is ideal for QuickFile users looking to speed up invoice entry and manage multiple invoices from a single grid interface. Whether you are handling sales or purchase invoices, the multi-invoice form offers a fast and flexible way to process your data.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:19 Why Use Multi-Invoice Entry\n00:40 Start Multi Invoice Entry\n00:59 Entering Invoice Details\n01:15 Change Defaults Easily\n01:33 Flag Invoices as Paid\n01:51 Use for Purchase Invoices\n02:05 Advanced Options for Affinity Users\n02:24 Affinity Account Benefits\n02:39 Summary & Key Takeaways\n02:53 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/the-multi-invoice-entry-form/8884\n\nFor additional QuickFile help and guides, please visit our support resources and explore other videos on our channel.\n\n#QuickFile #Accounting #InvoiceEntry #Bookkeeping #Affinity #SmallBusiness",
       "published": "2026-09-27T10:30:17Z",
       "duration": 185,
-      "views": 9,
+      "views": 10,
       "thumbnail": "https://i.ytimg.com/vi/BtSK-cTYTlA/mqdefault.jpg",
       "tags": [
         "Affinity accounting software",
@@ -142,7 +295,7 @@
       "description": "In this QuickFile support video, learn how to create and manage Supplementary Pages to enhance your invoices and estimates. We cover creating HTML templates, attaching supplementary pages to documents, using custom tokens for dynamic client details, and integrating these pages with recurring invoices.\n\nDiscover how Supplementary Pages become a seamless part of your client documents, including how to enable pre-acceptance notifications and preview client views. This video also explains subscription requirements and how to convert existing documents into HTML templates.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:17 What Are Supplementary Pages?\n00:37 Subscription Requirement\n00:54 Create Your Template\n01:16 Example HTML Template\n01:33 Attach Template to Invoice\n01:54 Using Custom Tokens\n02:07 Pre-Acceptance Notifications\n02:26 Client View\n02:47 Recurring Invoices\n03:04 Convert Existing Documents\n03:23 Summary & Key Takeaways\n03:36 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/supplementary-pages/16626\n\nFor more QuickFile help and guides, please explore our other support videos and resources.\n\n#QuickFile #Invoices #AccountingSoftware #BusinessTools #InvoiceTemplates",
       "published": "2026-09-27T09:45:33Z",
       "duration": 248,
-      "views": 6,
+      "views": 7,
       "thumbnail": "https://i.ytimg.com/vi/n9ZJ3UKHyRQ/mqdefault.jpg",
       "tags": [
         "QuickFile HTML templates",
@@ -167,7 +320,7 @@
       "description": "In this QuickFile support video, you will learn how to efficiently rebill expenses to your clients using QuickFile’s purchase and sales invoice features. We cover selecting expenses, setting markup and invoice types, attaching receipt scans, and understanding VAT treatment and contra expenses.\n\nThis video guides you through the entire process from selecting purchase invoices to finalising the sales invoice draft. You will also learn about VAT implications and currency restrictions when rebilling expenses in QuickFile.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Why Rebill Expenses\n00:36 Rebill Expenses Steps\n01:02 Invoice Options\n01:26 Contra Expenses Option\n01:52 Finalising the Invoice\n02:15 VAT Treatment\n02:44 Currency Restriction\n03:00 Summary & Key Takeaways\n03:12 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/rebilling-expenses/12313\n\nFor additional QuickFile help and guides, please visit our support resources and watch our other support videos.\n\n#QuickFile #ExpenseRebilling #Accounting #VAT #SmallBusiness",
       "published": "2026-09-27T09:30:32Z",
       "duration": 196,
-      "views": 7,
+      "views": 8,
       "thumbnail": "https://i.ytimg.com/vi/o_gph49-_jE/mqdefault.jpg",
       "tags": [
         "QuickFile",
@@ -374,7 +527,7 @@
       "description": "In this QuickFile support video, you will learn how to effectively use the Chart of Accounts to organise your business transactions. We cover everything from accessing and managing nominal accounts to editing default accounts, exporting your account data, and using journaling and re-coding features.\n\nQuickFile’s Chart of Accounts is essential for categorising your financial data, helping you generate accurate reports such as Profit and Loss statements and Balance Sheets. This video explains how to add new accounts, manage ledgers, hide unused accounts, and make adjustments safely with guidance on when to consult your accountant.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:20 Chart of Accounts Purpose\n00:50 Nominal Account Numbers\n01:14 Preloaded Accounts\n01:33 Before Adding Accounts\n02:02 Add Nominal Accounts\n02:34 Manage Nominal Ledgers\n02:56 Default Accounts Restrictions\n03:21 Hide Unused Accounts\n03:52 Add Popular Accounts\n04:18 Export Chart of Accounts\n04:46 Nominal Account Settings\n05:14 Using Codes Flexibly\n05:41 Journaling Changes\n06:10 Re-coding Postings\n06:40 Summary & Key Takeaways\n06:53 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/the-chart-of-accounts/8861\n\nFor additional QuickFile help and guides, please visit our support resources and explore other videos on our channel.\n\n#QuickFile #Accounting #ChartOfAccounts #Bookkeeping #SmallBusiness",
       "published": "2026-09-20T09:45:18Z",
       "duration": 393,
-      "views": 14,
+      "views": 16,
       "thumbnail": "https://i.ytimg.com/vi/W8G6qbYSqLY/mqdefault.jpg",
       "tags": [
         "Chart of Accounts",
@@ -400,7 +553,7 @@
       "description": "In this QuickFile support video, you will learn how to effectively use Projects to group and track your sales, expenses, estimates, and purchase orders. Discover how to create and apply project tags, view detailed project reports and profitability, and make adjustments for non-invoice costs.\n\nWe also cover how to use project activity charts, drill down into tagged items, and find untagged invoices to keep your records accurate. QuickFile’s flexible project tagging system helps you monitor your projects on both an invoice and cash basis, giving you a clear financial overview.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 What Are Projects?\n00:47 Creating Project Tags\n01:13 Applying Tags\n01:42 Managing Tags\n02:05 Access Project Reports\n02:30 Project Totals Explained\n02:51 Making Adjustments\n03:16 View Adjustments\n03:34 Project Activity Chart\n03:54 Drill Down on Items\n04:15 Tag Recurring Invoices\n04:34 Project Profit & Loss\n04:55 Find Untagged Invoices\n05:23 Bank Tagging Integration\n05:45 Summary & Key Takeaways\n06:01 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/projects-in-quickfile/8858\n\nFor additional QuickFile help and guides, please visit our support resources and explore our other support videos.\n\n#QuickFile #ProjectManagement #Accounting #Invoicing #ProfitTracking",
       "published": "2026-09-20T09:30:39Z",
       "duration": 359,
-      "views": 10,
+      "views": 11,
       "thumbnail": "https://i.ytimg.com/vi/8laxVdOVC5E/mqdefault.jpg",
       "tags": [
         "QuickFile activity chart",
@@ -529,7 +682,7 @@
       "description": "In this QuickFile support video, you will learn how to locate and customise your email templates to streamline your client communications. We cover editing default templates, using email tokens to personalise messages automatically, and creating client-specific templates for tailored communications.\n\nDiscover how to set default sender details and email signatures to maintain consistent branding across your emails. This video also explains the subscription requirements for client-specific templates and how to manage these within your QuickFile account.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:18 Locate Email Templates\n00:54 Set Email Details\n01:30 Use Email Tokens\n02:20 Client-Specific Templates\n03:03 Create Client Custom Template\n03:44 Summary & Key Takeaways\n03:56 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/customise-your-email-templates/21322\n\nFor additional QuickFile help and guides, please visit our support resources and watch our other support videos.\n\n#QuickFile #EmailTemplates #AccountingSoftware #ClientCommunication #BusinessTips",
       "published": "2026-09-19T09:30:17Z",
       "duration": 226,
-      "views": 7,
+      "views": 8,
       "thumbnail": "https://i.ytimg.com/vi/vahLiqk3f6c/mqdefault.jpg",
       "tags": [
         "QuickFile Power User",
@@ -581,7 +734,7 @@
       "description": "In this QuickFile support video, you will learn the essentials of landlord bookkeeping. We cover how to set up a landlord account, use the landlord dashboard, tag deposits and expenses correctly, and track landlord obligations efficiently. The video also explains how to migrate existing accounts and manage recurring rent demands.\n\nQuickFile’s landlord features help you organise your rental properties, tenants, and financial records in one place. You’ll see how to create property and tenant records, automate rent invoicing, and keep on top of important reminders such as safety checks and contract renewals.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Landlord Account Setup\n01:03 Landlord Dashboard Features\n01:34 Initial Record creation\n02:03 Property and Tenant Records\n02:37 Recurring Rent Demands\n03:12 Bookkeeping Tips for Landlords\n03:57 Track Landlord Obligations\n04:33 Separate Accounts Recommended\n04:59 Summary & Key Takeaways\n05:15 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/landlord-bookkeeping-basics/47318\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #LandlordBookkeeping #RentalProperty #BookkeepingTips #LandlordDashboard",
       "published": "2026-09-19T09:00:21Z",
       "duration": 302,
-      "views": 7,
+      "views": 8,
       "thumbnail": "https://i.ytimg.com/vi/Njbd9mSaITI/mqdefault.jpg",
       "tags": [
         "QuickFile landlord",
@@ -607,7 +760,7 @@
       "description": "In this QuickFile support video, you'll get a clear tour of the QuickFile interface. We cover the main navigation methods and introduce five key areas: Sales, Purchases, Banking, Reports, and Account Settings. This overview helps you understand where to find essential features before starting your bookkeeping.\n\nYou'll learn how to use the dashboard, top menu, plus icon, and QuickSearch to move around QuickFile efficiently. The video explains the purpose of each main area, so you know where to manage customers, suppliers, bank transactions, reports, and account settings.\n\nTimestamps:\n00:00 Title\n00:21 What We Will Cover\n00:46 The QuickFile Dashboard\n01:03 Navigation Options\n01:39 The QuickSearch Option\n02:01 The Sales Menu\n02:29 The Purchase Menu\n02:55 The Banking Menu\n03:35 The Reports Menu\n04:01 The Account Settings Menu\n04:30 Summary & Key Takeaways\n04:59 Closing\n\nFor more information, see our full support article:\nhttps://www.quickfile.co.uk/support/interface-tour\n\n#QuickFile #Bookkeeping #AccountingSoftware #SmallBusiness #Finance",
       "published": "2026-09-14T16:19:48Z",
       "duration": 268,
-      "views": 22,
+      "views": 25,
       "thumbnail": "https://i.ytimg.com/vi/TPA37PBbCtM/mqdefault.jpg",
       "tags": [
         "QuickFile QuickSearch",
@@ -658,7 +811,7 @@
       "description": "In this QuickFile support video, you will learn how to request a tax calculation manually, understand automatic tax calculations, and view your past tax calculations. We guide you through accessing the Self-Assessment Workflow screen, generating detailed tax reports, and reviewing your tax position throughout the year.\n\nQuickFile helps you keep track of your tax liability with both manual requests and automatic calculations after cumulative updates. You will also see how to find previous tax calculations via the Reports section for easy reference.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:15 Request a Tax Calculation\n00:30 View the Tax Report\n00:43 Manual vs Automatic Calculations\n00:57 View Past Tax Calculations\n01:10 Summary & Key Takeaways\n01:22 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/request-a-tax-calculation/60686\n\nFor additional QuickFile help and guides, please visit our support resources and other videos.\n\n#QuickFile #TaxCalculation #SelfAssessment #Accounting #TaxReport",
       "published": "2026-09-13T09:00:29Z",
       "duration": 91,
-      "views": 9,
+      "views": 11,
       "thumbnail": "https://i.ytimg.com/vi/tgV79ybmB98/mqdefault.jpg",
       "tags": [
         "QuickFile HMRC connections",
@@ -710,7 +863,7 @@
       "description": "Learn how to import sales and purchase invoices into QuickFile using a CSV file. This step-by-step video covers file formatting requirements, core data fields, handling multi-line items, and importing paid invoices.\n\nWe also demonstrate how to configure default invoice settings in advance and walk through the automated column mapping process using the Data Import Wizard.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:19 Before Importing\n01:07 Required Minimum Fields\n01:26 Importing Paid Invoices\n01:43 Importing Invoices with contact information\n01:52 Multi-Line Invoices\n02:04 Set up Defaults first\n02:24 Automatic Column Mapping\n02:36 Data Import Demonstration\n03:44 Summary & Key Takeaways\n03:58 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/importing-sales-and-purchase-invoices/8885\n\nFor more QuickFile help and guides, please see the QuickFile support resources and our other support videos.\n\n#QuickFile #Bookkeeping #Invoicing #DataImport #AccountingSoftware",
       "published": "2026-09-13T09:00:26Z",
       "duration": 230,
-      "views": 18,
+      "views": 20,
       "thumbnail": "https://i.ytimg.com/vi/9Mg1xG2-FtY/mqdefault.jpg",
       "tags": [
         "CSV invoice import",
@@ -783,7 +936,7 @@
       "description": "In this QuickFile support video, you will learn how to manage your business mileage expenses efficiently. We cover defining business mileage, creating a dedicated supplier for mileage, logging mileage expenses with detailed journey information, and paying mileage invoices correctly based on your business structure.\n\nThis step-by-step guide helps you keep accurate records for mileage claims using QuickFile, ensuring your purchases are categorised correctly and reimbursements are tracked properly. Whether you are a sole trader, limited company, or partnership, this video explains the process clearly.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:16 What is Business Mileage?\n00:37 Create Mileage Supplier\n00:56 Log Mileage Expense\n01:43 Adding items to your purchase\n02:45 Paying the Mileage Invoice\n03:09 Reimbursing Expenses\n03:24 Payment Diffrences\n03:38 Summary & Key Takeaways\n03:52 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/business-mileage-expense/8871\n\nFor additional QuickFile help and guides, please visit our support resources and explore our other videos.\n\n#QuickFile #BusinessMileage #ExpenseTracking #Accounting #SmallBusiness",
       "published": "2026-09-12T09:00:37Z",
       "duration": 211,
-      "views": 11,
+      "views": 13,
       "thumbnail": "https://i.ytimg.com/vi/BL20pgk1LjI/mqdefault.jpg",
       "tags": [
         "HMRC mileage rates",
@@ -809,7 +962,7 @@
       "description": "In this QuickFile support video, you will learn how to correctly record disbursements in your accounts. We cover creating nominal codes, recording purchase invoices, raising client invoices, tagging payments accurately, and understanding the VAT treatment for disbursements and service fees.\n\nThis step-by-step guide ensures you handle disbursements as an agent for your clients, keeping your business accounts accurate and compliant with HMRC VAT rules. Using QuickFile’s features, including project tagging, helps you track disbursements and fees clearly per client project.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:16 Disbursements Defined\n00:28 Disbursement Conditions\n00:39 Create Nominal Codes\n00:48 Enable Nominal for Invoices\n00:59 Record Disbursement Purchase\n01:11 Tag Supplier Payment\n01:18 Create Client Invoices\n01:30 Tag Client Payment\n01:38 VAT Treatment\n01:49 Manual Verification Required\n01:56 Project Tracking\n02:02 Summary & Key Takeaways\n02:17 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/how-to-record-disbursements/59107\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other support videos.\n\n#QuickFile #Disbursements #Accounting #VAT #Bookkeeping",
       "published": "2026-09-12T09:00:32Z",
       "duration": 131,
-      "views": 9,
+      "views": 11,
       "thumbnail": "https://i.ytimg.com/vi/FFViB3yP3uk/mqdefault.jpg",
       "tags": [
         "HMRC VAT rules",
@@ -911,7 +1064,7 @@
       "description": "In this QuickFile support video, you will learn how to use Cumulative Update Mapping Rules to correctly categorise your income and expenditure for HMRC reporting. We cover the purpose of mapping rules, how to manage default and custom rules, and how to handle nominal assignments including disallowable expenses.\n\nDiscover how to configure separate mapping sets for self-employment, UK property, and foreign property income sources within QuickFile. The video also shows you how to access and update your mapping rules via the Reports section or directly from draft cumulative update reports.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:17 Purpose of Mapping Rules\n00:58 Different Mapping Sets\n01:21 Accessing Mapping Rules\n01:47 Default and Custom Rules\n02:21 Unassigned Nominal Accounts\n02:35 Disallowable Expenses\n02:50 How Changes Affect Your Updates\n03:05 Summary & Key Takeaways\n03:23 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/cumulative-update-mapping-rules/60866\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #Accounting #MTD #TaxDigital #SmallBusiness #AccountingSoftware",
       "published": "2026-09-12T09:00:24Z",
       "duration": 202,
-      "views": 5,
+      "views": 6,
       "thumbnail": "https://i.ytimg.com/vi/UWXPewzvIvY/mqdefault.jpg",
       "tags": [
         "Accounting software tutorial",
@@ -937,7 +1090,7 @@
       "description": "Learn how to set up, connect, and manage Open Banking feeds in QuickFile. This tutorial covers everything from the 14-day free trial and connecting your bank account to linking feeds and understanding automated daily imports.\n\nWe also explain how to manage 90-day re-authorisation consents, refresh feeds on demand, delete batch uploads, and identify imported transaction types within your QuickFile account.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:23 Initial setup and free trial\n00:59 Open Banking Feeds\n01:18 Connect Your Bank\n01:41 Link Feed to Account\n02:07 Consent and Status\n02:32 Updates and Access\n03:02 Deleting an Import and Transaction Types\n03:37 Summary & Key Takeaways\n03:57 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/managing-open-banking-feeds/24052\n\nFor more QuickFile help and guides, please see our support resources and subscribe to our channel.\n\n#QuickFile #OpenBanking #BankFeeds #Bookkeeping #UKAccounting",
       "published": "2026-09-12T09:00:22Z",
       "duration": 221,
-      "views": 15,
+      "views": 16,
       "thumbnail": "https://i.ytimg.com/vi/J1pit-psiow/mqdefault.jpg",
       "tags": [
         "Open Banking feeds",
@@ -958,7 +1111,7 @@
       "description": "In this QuickFile support video, you'll learn the essentials of sole trader bookkeeping. We cover how to separate business and personal finances, use the Proprietor Drawings Account, and correctly record investments and withdrawals. You'll also discover how to choose the right expense categories and manage card payments effectively.\n\nThe video explains how to handle daily sales using the cash register feature, making bookkeeping easier for retail and hospitality businesses. QuickFile’s straightforward approach helps sole traders keep their accounts accurate and organised.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:23 Separate Business and Personal\n01:14 Use a Business Account\n01:24 Proprietor Drawings Account\n01:35 Record Initial Investment\n01:47 Pay Business Expense Personally\n02:11 Withdraw Money from Business\n02:41 Choosing Expense Categories\n04:14 Card Payment Providers\n05:23 Recording Daily Sales\n05:51 Summary & Key Takeaways\n06:08 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/sole-trader-bookkeeping-the-basics/8808\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #SoleTrader #BookkeepingBasics #SmallBusiness #Accounting",
       "published": "2026-09-12T09:00:19Z",
       "duration": 324,
-      "views": 23,
+      "views": 25,
       "thumbnail": "https://i.ytimg.com/vi/FTr_MrQyAdU/mqdefault.jpg",
       "tags": [
         "Proprietor Drawings Account",
@@ -1010,7 +1163,7 @@
       "description": "Learn how to add a new supplier in QuickFile, from entering basic contact details to setting up opening balances for existing debts.\n\nThis step-by-step tutorial also covers using Companies House lookup to populate addresses automatically, setting supplier default VAT rates and purchase codes, bulk uploads, and accessing real-time Companies House reports.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:20 Create a new Supplier\n00:34 Addresses and Balances\n00:54 Supplier Defaults  -Optional\n01:06 Bulk Uploads\n01:18 QuickFile Demonstration\n01:43 Connected Features\n02:06 Summary & Key Takeaways\n02:20 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/add-a-new-supplier/8815\n\nFor more QuickFile help and guides, please see our other support videos and resources.\n\n#QuickFile #AccountingSoftware #Bookkeeping #Suppliers #UKBusiness",
       "published": "2026-09-12T09:00:04Z",
       "duration": 167,
-      "views": 15,
+      "views": 16,
       "thumbnail": "https://i.ytimg.com/vi/4VqEgMKnr08/mqdefault.jpg",
       "tags": [
         "Add a new supplier",
@@ -1116,7 +1269,7 @@
       "description": "Learn how to record business expenses and purchases in QuickFile. This step-by-step tutorial covers creating purchase entries, setting receipt and due dates, and adding item descriptions accurately.\n\nWe also demonstrate how to use the built-in expense categorisation tool, log inline bank payments, and attach digital receipt files to your invoices for complete record-keeping.\n\nTimestamps:\n00:00 Introduction\n00:07 What We Will Cover\n00:17 Create a Purchase Entry\n00:31 Receipt & Due Dates\n00:43 Item Details\n00:56 Categorisation Help\n01:08 Inline Payments\n01:22 QuickFile Demonstration\n01:29 Attach File Receipts\n01:43 Summary\n01:56 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/recording-your-purchases/8812\n\nSubscribe to our channel for more QuickFile help guides and accounting tutorials.\n\n#QuickFile #Bookkeeping #Purchases #Accounting #SmallBusinessUK",
       "published": "2026-09-01T15:32:25Z",
       "duration": 155,
-      "views": 15,
+      "views": 16,
       "thumbnail": "https://i.ytimg.com/vi/1_GpDtZW8Ik/mqdefault.jpg",
       "tags": [
         "QuickFile",
@@ -1158,7 +1311,7 @@
       "description": "Learn how to accurately select, search, and update nominal categories for your business expenses in QuickFile. This tutorial covers standard purchase categories, asset classifications, and how to record payments made with personal funds or spent on staff refreshments.\n\nWe also highlight key exceptions where outgoings must be tagged directly from your bank screen rather than logged as purchase invoices, such as tax payments and salaries. Finally, discover how to use the built-in category search helper and correct category errors using bulk re-coding tools.\n\nTimestamps:\n00:00 Introduction\n00:07 What We Will Cover\n00:19 Basic Purchase Categories\n00:34 Personal Funds & Refreshments\n00:53 Bank-Only Tagging\n01:10 Category Search Helper\n01:29 Updating Category Postings\n01:44 Summary\n01:57 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/categorising-your-purchases/8811\n\nExplore our channel for more QuickFile help guides and bookkeeping tutorials.\n\n#QuickFile #Bookkeeping #Purchases #Accounting #SmallBusiness",
       "published": "2026-09-01T15:15:16Z",
       "duration": 130,
-      "views": 11,
+      "views": 13,
       "thumbnail": "https://i.ytimg.com/vi/ujRCeZZP9jw/mqdefault.jpg",
       "tags": [
         "QuickFile",
@@ -1180,7 +1333,7 @@
       "description": "In this tutorial, learn how to attach supporting documents to your invoices and quotations using QuickFile. We demonstrate supported file formats, how to upload directly or select from Document Manager, adding notes to files, and automatically displaying attachments in client emails.\n\nQuickFile makes it easy to keep all relevant documentation attached to your sales documents, giving your clients direct access from their client control panel.\n\nTimestamps:\n00:00 Introduction\n00:08 What We Will Cover\n00:19 Attachment Options\n00:35 Attaching Files\n00:52 File Notes\n01:06 Email Attachments\n01:18 Summary\n01:32 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/attach-files-to-your-invoices/8921\n\nSubscribe to our channel for more QuickFile help guides and software tips.\n\n#QuickFile #Invoicing #Bookkeeping #SmallBusiness #Accounting",
       "published": "2026-09-01T13:02:24Z",
       "duration": 102,
-      "views": 18,
+      "views": 19,
       "thumbnail": "https://i.ytimg.com/vi/dcs9MpwWCiI/mqdefault.jpg",
       "tags": [
         "QuickFile",
@@ -1310,7 +1463,7 @@
       "description": "Vat Bridging in QuickFile\n\nAre you looking for a simple, cost-effective way to file your Making Tax Digital (MTD) VAT returns directly from Excel or CSV spreadsheets? 📊✨\n\nIn this video, we guide you step-by-step through using the QuickFile VAT Bridging Module. \n\nIf you prefer keeping your sales and purchase ledgers in spreadsheets rather than switching to a full accounting platform, VAT Bridging creates a direct digital bridge between your files and HMRC’s MTD filing interface.\n\n---------------------------------------------------\n🔑 KEY HIGHLIGHTS FROM THIS TUTORIAL\n---------------------------------------------------\n• What is VAT Bridging? How it links existing spreadsheet records with HMRC without changing your software.\n• Flexible File Support: Works with single-sheet, multi-sheet Excel files (.xls, .xlsx), or CSV files.\n• Pricing: Try your first VAT Bridging return for FREE! Accessible afterwards at no extra cost with an active Power User Subscription or via an Affinity managed account.\n• Setup Mapping: How to specify the exact Sheet Name, Column letters, and Row numbers for Boxes 1 through 9.\n\n---------------------------------------------------\n🔗 USEFUL LINKS\n---------------------------------------------------\n• Official QuickFile VAT Bridging Article: https://support.quickfile.co.uk/t/vat-bridging/26619\n• QuickFile Website: https://www.quickfile.co.uk\n\n#QuickFile #VATBridging #MTDVAT #HMRC #ExcelBookkeeping #UKTax #SmallBusinessUK #AccountingSoftware #MakingTaxDigital #Bookkeeping",
       "published": "2026-08-10T10:24:03Z",
       "duration": 227,
-      "views": 23,
+      "views": 24,
       "thumbnail": "https://i.ytimg.com/vi/-bGyDAFxE24/mqdefault.jpg",
       "tags": [
         "#AccountingSoftware",
@@ -1331,7 +1484,7 @@
       "description": "Master VAT Returns in QuickFile with this step-by-step tutorial! \n\nWhether you're using Cash Accounting, Accrual Accounting, or the Flat Rate Scheme (FRS), learn how to configure your account, calculate your return, handle adjustments, and submit directly to HMRC via Making Tax Digital (MTD).\n\nIn this video, we cover key concepts from the official QuickFile guide:\n• Configuring your VAT schedule & accounting method in Company Settings\n• How QuickFile handles Cash Accounting, Accrual, and Flat Rate schemes\n• Preparing and previewing your VAT return\n• Downloading CSV calculation backing reports to inspect your totals\n• Making manual box adjustments and documenting evidence\n• Handling prepayments, VAT-inclusive invoicing, and pre-dated entries\n• Rolling back unsubmitted returns and using the VAT Bridging module\n\n🔗 USEFUL LINKS\n• QuickFile VAT Returns Guide: https://support.quickfile.co.uk/t/vat-returns-guide/8910\n• HMRC Making Tax Digital (MTD) Information: https://www.gov.uk/government/publications/making-tax-digital-for-vat\n\nIf you found this guide helpful, please LIKE, COMMENT, and SUBSCRIBE for more UK bookkeeping and QuickFile tutorials!",
       "published": "2026-08-10T10:20:59Z",
       "duration": 423,
-      "views": 67,
+      "views": 68,
       "thumbnail": "https://i.ytimg.com/vi/cm1jrYbZ0_w/mqdefault.jpg",
       "tags": [
         "#AccountingTutorial",
