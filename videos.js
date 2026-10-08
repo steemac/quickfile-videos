@@ -1,12 +1,12 @@
 /* Created by update-videos.js. Do not edit by hand. */
 window.QF_VIDEOS = {
-  "generated": "2026-10-07T11:48:33.494Z",
+  "generated": "2026-10-08T12:03:29.843Z",
   "source": "api",
   "channel": {
     "id": "UCsztsJV-92UraKrJ90cBTOg",
     "title": "QuickFile Help Guides",
     "url": "https://www.youtube.com/@QuickFileHelpGuides",
-    "subscribers": 14
+    "subscribers": 15
   },
   "count": 72,
   "videos": [
@@ -220,7 +220,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to personalise your invoice design to better reflect your brand. We cover uploading your company logo, adjusting invoice labels, setting default notes and payment terms, choosing invoice styles, and modifying the client area design.\n\nQuickFile makes it easy to create professional invoices by allowing you to control key elements such as invoice metadata, default text blocks, and visual themes. You will also discover how to customise the online client portal for a consistent brand experience.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Add Your Logo\n00:42 Control Invoice Labels\n01:04 Set Default Notes & Terms\n01:33 Use Invoice Style Gallery\n02:03 Client Area Design\n02:27 Summary & Key Takeaways\n02:39 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/customising-your-invoice-design/8869\n\nFor additional QuickFile help and guides, please visit our support resources and explore our other support videos.\n\n#QuickFile #InvoiceDesign #SmallBusiness",
       "published": "2026-09-28T12:11:16Z",
       "duration": 161,
-      "views": 5,
+      "views": 6,
       "thumbnail": "https://i.ytimg.com/vi/Bs-_fkTB2aE/mqdefault.jpg",
       "tags": [
         "QuickFile guide",
@@ -321,7 +321,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to invoice in foreign currencies effectively using QuickFile. We cover enabling multi-currency settings, creating foreign currency invoices, and tracking currency gains and losses to keep your accounts accurate.\n\nDiscover how to manage foreign currency bank accounts and pay or tag foreign currency invoices with ease. QuickFile automatically updates exchange rates and helps you handle realised and unrealised currency fluctuations seamlessly.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:20 Enable Multi-Currency\n00:38 Exchange Rate Source\n00:57 Create Foreign Currency Invoice\n01:19 Currency Gains and Losses\n01:40 Foreign Currency Purchases\n01:59 Foreign Currency Bank Accounts\n02:23 Pay Foreign Currency Invoices\n02:48 Tagging Foreign Bank Transactions\n03:08 Journal Currency Loss/Gain\n03:32 Summary & Key Takeaways\n03:45 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/invoicing-in-foreign-currencies/8901\n\nFor further QuickFile help and guides, please visit our support resources and other videos.\n\n#QuickFile #Invoicing #ForeignCurrency #Accounting #MultiCurrency",
       "published": "2026-09-27T10:00:17Z",
       "duration": 233,
-      "views": 5,
+      "views": 6,
       "thumbnail": "https://i.ytimg.com/vi/YiuymMwwoRM/mqdefault.jpg",
       "tags": [
         "QuickFile guide",
@@ -786,7 +786,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn the essentials of landlord bookkeeping. We cover how to set up a landlord account, use the landlord dashboard, tag deposits and expenses correctly, and track landlord obligations efficiently. The video also explains how to migrate existing accounts and manage recurring rent demands.\n\nQuickFile’s landlord features help you organise your rental properties, tenants, and financial records in one place. You’ll see how to create property and tenant records, automate rent invoicing, and keep on top of important reminders such as safety checks and contract renewals.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Landlord Account Setup\n01:03 Landlord Dashboard Features\n01:34 Initial Record creation\n02:03 Property and Tenant Records\n02:37 Recurring Rent Demands\n03:12 Bookkeeping Tips for Landlords\n03:57 Track Landlord Obligations\n04:33 Separate Accounts Recommended\n04:59 Summary & Key Takeaways\n05:15 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/landlord-bookkeeping-basics/47318\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #LandlordBookkeeping #RentalProperty #BookkeepingTips #LandlordDashboard",
       "published": "2026-09-19T09:00:21Z",
       "duration": 302,
-      "views": 14,
+      "views": 15,
       "thumbnail": "https://i.ytimg.com/vi/Njbd9mSaITI/mqdefault.jpg",
       "tags": [
         "QuickFile landlord",
@@ -812,7 +812,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you'll get a clear tour of the QuickFile interface. We cover the main navigation methods and introduce five key areas: Sales, Purchases, Banking, Reports, and Account Settings. This overview helps you understand where to find essential features before starting your bookkeeping.\n\nYou'll learn how to use the dashboard, top menu, plus icon, and QuickSearch to move around QuickFile efficiently. The video explains the purpose of each main area, so you know where to manage customers, suppliers, bank transactions, reports, and account settings.\n\nTimestamps:\n00:00 Title\n00:21 What We Will Cover\n00:46 The QuickFile Dashboard\n01:03 Navigation Options\n01:39 The QuickSearch Option\n02:01 The Sales Menu\n02:29 The Purchase Menu\n02:55 The Banking Menu\n03:35 The Reports Menu\n04:01 The Account Settings Menu\n04:30 Summary & Key Takeaways\n04:59 Closing\n\nFor more information, see our full support article:\nhttps://www.quickfile.co.uk/support/interface-tour\n\n#QuickFile #Bookkeeping #AccountingSoftware #SmallBusiness #Finance",
       "published": "2026-09-14T16:19:48Z",
       "duration": 268,
-      "views": 26,
+      "views": 27,
       "thumbnail": "https://i.ytimg.com/vi/TPA37PBbCtM/mqdefault.jpg",
       "tags": [
         "QuickFile QuickSearch",
@@ -889,7 +889,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to submit your Final Declaration as part of the self-assessment process. We cover the purpose of the Final Declaration, when to access it, how to generate your final tax calculation, and the steps to review and submit your declaration to HMRC.\n\nThis video explains the importance of submitting your Final Declaration by the 31st of January deadline to finalise your tax year and receive your payment schedule. Whether you have income from capital gains, pensions, dividends, or other sources, QuickFile helps you ensure all details are correctly reported.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:20 Final Declaration Purpose\n00:35 When to Access\n00:49 Generate Tax Calculation\n01:07 Review and Confirm\n01:19 Submission Deadline\n01:32 After Submission\n01:42 Summary & Key Takeaways\n01:55 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/final-declaration/60700\n\nFor additional QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #SelfAssessment #FinalDeclaration #HMRC #TaxFiling",
       "published": "2026-09-13T09:00:26Z",
       "duration": 127,
-      "views": 34,
+      "views": 36,
       "thumbnail": "https://i.ytimg.com/vi/4oNlopnnzJQ/mqdefault.jpg",
       "tags": [
         "Capital gains tax",
@@ -936,7 +936,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to manage foreign property updates efficiently using QuickFile. We cover linking your personal tax account, registering foreign properties with HMRC, preparing your updates, and submitting them directly through QuickFile.\n\nThis guide also explains important reporting limitations when handling properties across different jurisdictions and offers practical advice on managing multiple accounts. Whether you’re new to QuickFile or need a refresher, this video provides clear, step-by-step instructions.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:14 Link Your Tax Account\n00:33 Register Your Properties\n00:50 Prepare Your Updates\n01:19 Submit Your Update\n01:29 Reporting Limitations\n01:47 Summary & Key Takeaways\n02:00 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/foreign-property-updates/65376\n\nFor additional QuickFile help and guides, please visit our support resources and other videos on the QuickFile YouTube channel.\n\n#QuickFile #ForeignProperty #HMRC #MakingTaxDigital #TaxUpdates",
       "published": "2026-09-13T09:00:22Z",
       "duration": 124,
-      "views": 6,
+      "views": 8,
       "thumbnail": "https://i.ytimg.com/vi/4FyaoMZ-8jU/mqdefault.jpg",
       "tags": [
         "Foreign property reporting",
@@ -988,7 +988,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to manage your business mileage expenses efficiently. We cover defining business mileage, creating a dedicated supplier for mileage, logging mileage expenses with detailed journey information, and paying mileage invoices correctly based on your business structure.\n\nThis step-by-step guide helps you keep accurate records for mileage claims using QuickFile, ensuring your purchases are categorised correctly and reimbursements are tracked properly. Whether you are a sole trader, limited company, or partnership, this video explains the process clearly.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:16 What is Business Mileage?\n00:37 Create Mileage Supplier\n00:56 Log Mileage Expense\n01:43 Adding items to your purchase\n02:45 Paying the Mileage Invoice\n03:09 Reimbursing Expenses\n03:24 Payment Diffrences\n03:38 Summary & Key Takeaways\n03:52 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/business-mileage-expense/8871\n\nFor additional QuickFile help and guides, please visit our support resources and explore our other videos.\n\n#QuickFile #BusinessMileage #ExpenseTracking #Accounting #SmallBusiness",
       "published": "2026-09-12T09:00:37Z",
       "duration": 211,
-      "views": 12,
+      "views": 13,
       "thumbnail": "https://i.ytimg.com/vi/BL20pgk1LjI/mqdefault.jpg",
       "tags": [
         "HMRC mileage rates",
@@ -1064,7 +1064,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, learn how to check and manage your Self-Assessment business details efficiently. We cover how to view your business information, understand the differences between cash and accrual accounting methods, and update quarterly reporting periods starting from the 2026/27 tax year.\n\nYou'll also discover how to hide unused Making Tax Digital (MTD) businesses to keep your QuickFile interface organised. This guide ensures you stay up to date with your HMRC business details and maintain accurate records within QuickFile.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:16 View Business Details\n00:33 What You Can See\n00:44 Accounting Methods\n01:06 Quarterly Period Update\n01:23 Example Quarterly Periods\n01:38 Hiding Unused MTD Businesses\n01:50 Hide an MTD Business\n02:11 Summary & Key Takeaways\n02:23 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/check-your-self-assessment-business-details/60663\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other support videos.\n\n#QuickFile #SelfAssessment #MTD #Accounting #TaxHelp",
       "published": "2026-09-12T09:00:28Z",
       "duration": 151,
-      "views": 5,
+      "views": 10,
       "thumbnail": "https://i.ytimg.com/vi/oLNdsYao-hw/mqdefault.jpg",
       "tags": [
         "Accounting methods",
@@ -1189,7 +1189,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to use calendar quarters for Making Tax Digital Income Tax Self Assessment (MTD ITSA) starting from the 2026/27 tax year. We explain who is eligible, how to make the election in QuickFile, and the important deadlines for quarterly reporting.\n\nThe video also covers the special reporting requirements for the 1st to 5th April period in the first year, how QuickFile supports BSAS submissions, and what changes from 2027/28 onwards. This guide ensures you stay compliant with HMRC’s rules while using QuickFile for your MTD ITSA updates.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:19 Who Can Use Calendar Quarters?\n00:31 Important Restriction\n00:42 Making the Election\n01:00 Quarterly Periods & Deadlines\n01:22 Reporting 1st–5th April (First Year Only)\n01:38 BSAS Reporting Support\n01:52 From 2027/28 Onwards\n02:01 Quarterly Update Replacements\n02:11 Summary & Key Takeaways\n02:25 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/using-calendar-quarters-for-mtd-itsa-2026-27-onwards/60664\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other videos.\n\n#MTDITSA #QuickFile #TaxReporting #CalendarQuarters #SelfAssessment",
       "published": "2026-09-12T09:00:08Z",
       "duration": 158,
-      "views": 12,
+      "views": 11,
       "thumbnail": "https://i.ytimg.com/vi/m6DmlZMG2Tw/mqdefault.jpg",
       "tags": [
         "BSAS reporting",
@@ -1279,7 +1279,7 @@ window.QF_VIDEOS = {
       "description": "In this video, we provide an overview of QuickFile Affinity, designed for accounting professionals and multi-company owners who need to manage multiple QuickFile profiles from a single login.\n\nYou will learn how to add and link client profiles, understand account ownership, organise your dashboard with tags and pins, and manage team access control. We also touch on using the Affinity Workspace and custom branding options.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:19 What is Affinity\n00:40 Adding Profiles\n00:54 Account Ownership\n01:06 Dashboard Organisation\n01:18 Team Access Control\n01:35 Account Navigation\n01:48 Workspace & Branding\n02:05 Summary & Key Takeaways\n02:19 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/quickfile-affinity-overview/8828\n\nFor more QuickFile help and guides, please see the QuickFile support resources and our other support videos.\n\n#QuickFile #QuickFileAffinity #AccountingSoftware #Bookkeeping #AccountantTools",
       "published": "2026-09-04T17:18:25Z",
       "duration": 144,
-      "views": 13,
+      "views": 14,
       "thumbnail": "https://i.ytimg.com/vi/Hik4X_2QJSg/mqdefault.jpg",
       "tags": [
         "Affinity dashboard",
@@ -1584,7 +1584,7 @@ window.QF_VIDEOS = {
       "description": "Learn how to set up and use Reusable Inventory Items in QuickFile to speed up your invoicing and purchasing workflow.\n\nIn this video, we'll show you how to create reusable products and services that can be quickly added to sales invoices, estimates, purchase invoices, and purchase orders. By using Inventory Items, you can reduce manual data entry, improve consistency across your documents, and save valuable time.\n\nIn this video, you'll learn how to:\n\nCreate reusable Inventory Items\nSet up product and task inventory records\nAdd prices, descriptions, VAT rates, and categories\nUse Inventory Items on sales invoices and estimates\nInsert Inventory Items into purchase documents\nImprove efficiency when creating repeat transactions\n\nWhether you're new to QuickFile or looking to streamline your bookkeeping, this guide will help you get the most out of the Inventory Items feature.\n\nFor more QuickFile tutorials and support videos, subscribe to our channel and visit the QuickFile Support Centre.",
       "published": "2026-08-04T14:42:47Z",
       "duration": 296,
-      "views": 19,
+      "views": 21,
       "thumbnail": "https://i.ytimg.com/vi/oEoPQ2kETew/mqdefault.jpg",
       "tags": [
         "#AccountingSoftware",
@@ -1631,7 +1631,7 @@ window.QF_VIDEOS = {
       "description": "Submit a UK Property Cumulative Update in QuickFile | MTD for Income Tax Self Assessment\n\nIn this video, we'll show you how to create and submit a Cumulative Update for a UK Property income source using QuickFile as part of Making Tax Digital (MTD) for Income Tax Self Assessment.\n\nWe'll walk through the complete submission workflow, including setting up your property nominal mappings, generating the update, reviewing your figures, saving drafts, and submitting your update to HMRC.\n\nIn this video you'll learn how to:\n\n* Navigate to the Self Assessment workflow\n* Connect your HMRC account\n* Activate the required Power User subscription\n* Configure your UK Property nominal account mappings\n* Generate a new Cumulative Update\n* Resolve missing nominal mapping errors\n* Review your figures by HMRC categories or nominal codes\n* Check your figures against your Profit and Loss report\n* Save a submission as a draft\n* Access and continue draft submissions\n* Submit your Cumulative Update to HMRC\n\nPlease note: This video covers UK Property income sources only.\n\nIf you need to submit:\n\n* A Self Employed income source\n* A combined Self Employed and UK * Property submission\n\n...please see the other tutorials available on our channel.\n\nWe'll also be publishing dedicated videos covering additional features, including:\n\n* Apportioning expenses\n* Sharing updates \n* Advanced Self Assessment options\n* Other Making Tax Digital workflows\n\nFor detailed written guidance, including the full Cumulative Update process, please see our support article",
       "published": "2026-07-29T20:16:22Z",
       "duration": 281,
-      "views": 139,
+      "views": 142,
       "thumbnail": "https://i.ytimg.com/vi/8_r_r199HE0/mqdefault.jpg",
       "tags": [
         "#AccountingSoftware",
@@ -1652,7 +1652,7 @@ window.QF_VIDEOS = {
       "description": "Submit a Self-Employed Cumulative Update in QuickFile | MTD for Income Tax Self Assessment\n\nIn this video, we'll show you how to create and submit a Cumulative Update for a self-employed income source using QuickFile as part of Making Tax Digital (MTD) for Income Tax Self Assessment.\n\nThis walkthrough covers the basic submission process, from creating a new update and reviewing your figures to saving drafts and submitting your update to HMRC.\n\nIn this video you'll learn how to:\n\n* Navigate to the Self Assessment workflow\n* Connect your HMRC account\n* Create a new Cumulative Update\n* Generate and review your report\n* View your figures by HMRC categories or nominal codes\n* Check your figures against your Profit and Loss report\n* Save a submission as a draft\n* Access and continue draft submissions\n* Submit your Cumulative Update to HMRC\n\nPlease note: This video covers self-employed income sources only.\n\nIf you need to submit:\n\n* A UK property income source\n* A combined self-employed and UK property submission\n\n...please see the other videos available on our channel.\n\nWe'll also be publishing dedicated tutorials covering additional features, including:\n\nApportioning expenses\nSharing updates \nOther advanced Cumulative Update options\n\nIf you found this video helpful, please Like, Subscribe, and click the bell icon to be notified when we publish new QuickFile tutorials.",
       "published": "2026-07-29T12:44:53Z",
       "duration": 190,
-      "views": 76,
+      "views": 77,
       "thumbnail": "https://i.ytimg.com/vi/ipxEneALZA0/mqdefault.jpg",
       "tags": [
         "#AccountingSoftware",
