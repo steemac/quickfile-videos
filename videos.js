@@ -1,6 +1,6 @@
 /* Created by update-videos.js. Do not edit by hand. */
 window.QF_VIDEOS = {
-  "generated": "2026-10-08T12:03:29.843Z",
+  "generated": "2026-10-09T11:55:26.698Z",
   "source": "api",
   "channel": {
     "id": "UCsztsJV-92UraKrJ90cBTOg",
@@ -42,7 +42,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to import your accounting data from another system efficiently. We cover three main import methods, how to choose the correct start date depending on your VAT status, and the process of exporting and uploading your trial balance as a CSV file. \n\nThe video also demonstrates how to map your old nominal ledger codes to QuickFile’s system and how to manually enter opening balances if CSV export is not available. This guide ensures your accounting history is accurately transferred, helping you maintain correct financial reports from day one.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:18 Why Import Data?\n00:51 Three Import Methods\n01:12 Choosing Your Start Date\n01:34 Export Trial Balance\n01:55 Upload Trial Balance to QuickFile\n02:27 QuickFile Demonstration\n03:38 Manual Journal Entry\n04:20 Summary & Key Takeaways\n04:33 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/importing-data-from-another-system/8936\n\nInteractive Guide\nhttps://www.quickfile.co.uk/home/startup\n\nFor further QuickFile help and guides, please visit our support resources and YouTube channel.\n\n#QuickFile #Accounting #DataImport #TrialBalance #Bookkeeping",
       "published": "2026-10-04T09:00:04Z",
       "duration": 257,
-      "views": 4,
+      "views": 5,
       "thumbnail": "https://i.ytimg.com/vi/R5q9hn7OalM/mqdefault.jpg",
       "tags": [
         "QuickFile accounting setup",
@@ -67,7 +67,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to customise invoice and estimate line settings to better manage your accounts. Discover how to access the line settings cog icon, assign nominal ledger categories for accurate financial tracking, and insert page breaks and sub-totals to organise your PDF documents.\n\nThe video also covers converting lines to comment lines, which is useful for adding notes or section headings within your invoices or estimates. These features help you create clearer, more detailed financial documents using QuickFile.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Access Invoice Line Settings\n00:41 Category Selection\n01:05 Create Custom Sales Codes\n01:30 Insert Page Break\n01:50 Insert Sub-total\n02:12 Convert to Comment Line\n02:31 Summary & Key Takeaways\n02:44 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/invoice-and-estimate-line-settings/20509\n\nFor additional QuickFile help and guides, please visit our support resources and explore more videos on our channel.\n\n#QuickFile #InvoiceSettings #Accounting #SmallBusiness #FinanceTips",
       "published": "2026-10-03T09:45:02Z",
       "duration": 166,
-      "views": 4,
+      "views": 5,
       "thumbnail": "https://i.ytimg.com/vi/Bb3ltqJaclM/mqdefault.jpg",
       "tags": [
         "QuickFile accounting software",
@@ -92,7 +92,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, learn how to manage client statements effectively to keep your accounts organised and improve credit control. We cover viewing and printing client statements, understanding their contents, adding custom notes, and applying filters to tailor your views.\n\nDiscover how to send statements via email or post, set up recurring statement schedules for automatic dispatch, and save your display preferences for future use. This guide ensures you make the most of QuickFile's client statement features to streamline your invoicing and payment processes.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:19 What is a Client Statement?\n00:42 How to access Client Statements\n01:06 What Appears on the Statement?\n01:26 Apply Filters and Currency Display\n01:50 Add Custom Notes\n02:14 Overdue Invoice Warnings\n02:34 Emailing Client Statements\n02:57 Recurring Statement Emails\n03:24 Posting Statements by Snail Mail\n03:44 Save Your Preferences\n04:03 Summary & Key Takeaways\n04:17 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/client-statements-management/8922\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other support videos.\n\n#QuickFile #ClientStatements #Accounting #Invoicing #CreditControl",
       "published": "2026-10-03T09:30:36Z",
       "duration": 271,
-      "views": 8,
+      "views": 9,
       "thumbnail": "https://i.ytimg.com/vi/0rHqxxJJs2E/mqdefault.jpg",
       "tags": [
         "QuickFile",
@@ -117,7 +117,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to use pre-acceptance notifications to ensure your clients actively review and agree to important business terms before accepting quotes or paying invoices online. We cover how these notifications appear for estimates and invoices, how to set them up in the Design Customisation settings, and how client acknowledgements are recorded for compliance.\n\nYou will also discover how to trigger notifications selectively when supplementary pages, such as contracts or legal disclosures, are attached to your documents. This video provides a clear overview of the entire process to help you maintain transparency and protect your business.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:16 Purpose of Notifications\n00:35 When Notifications Appear\n00:55 Setting Up Notifications\n01:13 Supplementary Pages\n01:36 Acknowledgement Recording\n01:55 Summary & Key Takeaways\n02:09 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/pre-acceptance-notifications-for-invoices-and-estimates/16721\n\nFor additional QuickFile help and guides, please visit our support resources and other videos on the QuickFile channel.\n\n#QuickFile #InvoiceManagement #ClientNotifications #AccountingSoftware #BusinessCompliance",
       "published": "2026-10-03T09:15:12Z",
       "duration": 143,
-      "views": 2,
+      "views": 3,
       "thumbnail": "https://i.ytimg.com/vi/9FvB8ddgtWw/mqdefault.jpg",
       "tags": [
         "QuickFile",
@@ -296,7 +296,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to use the Cash Register Tool to simplify managing your business’s cash register takings. We cover the tool’s purpose, where to find it within QuickFile, how it works, and how to configure key settings to suit your accounts.\n\nThis video also explains important limitations to consider, such as the lack of support for multiple product lines per reporting period, helping you decide when to use manual invoice entry instead. Whether you are VAT-registered or not, this guide will help you efficiently post your cash and card sales totals to QuickFile.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Purpose of the Tool\n00:41 Finding the Tool\n01:01 How It Works\n01:27 Example Entry\n01:51 Cash Register Settings\n02:12 Multiple Product Lines\n02:34 Summary & Key Takeaways\n02:50 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/cash-register-tool/15076\n\nFor additional QuickFile help and guides, please visit our support resources and watch our other support videos.\n\n#QuickFile #CashRegister #AccountingSoftware #SmallBusiness #Invoicing",
       "published": "2026-09-27T10:15:21Z",
       "duration": 174,
-      "views": 7,
+      "views": 8,
       "thumbnail": "https://i.ytimg.com/vi/BHjasq8GSxE/mqdefault.jpg",
       "tags": [
         "Cash Register Tool",
@@ -347,7 +347,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, learn how to create and manage Supplementary Pages to enhance your invoices and estimates. We cover creating HTML templates, attaching supplementary pages to documents, using custom tokens for dynamic client details, and integrating these pages with recurring invoices.\n\nDiscover how Supplementary Pages become a seamless part of your client documents, including how to enable pre-acceptance notifications and preview client views. This video also explains subscription requirements and how to convert existing documents into HTML templates.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:17 What Are Supplementary Pages?\n00:37 Subscription Requirement\n00:54 Create Your Template\n01:16 Example HTML Template\n01:33 Attach Template to Invoice\n01:54 Using Custom Tokens\n02:07 Pre-Acceptance Notifications\n02:26 Client View\n02:47 Recurring Invoices\n03:04 Convert Existing Documents\n03:23 Summary & Key Takeaways\n03:36 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/supplementary-pages/16626\n\nFor more QuickFile help and guides, please explore our other support videos and resources.\n\n#QuickFile #Invoices #AccountingSoftware #BusinessTools #InvoiceTemplates",
       "published": "2026-09-27T09:45:33Z",
       "duration": 248,
-      "views": 9,
+      "views": 10,
       "thumbnail": "https://i.ytimg.com/vi/n9ZJ3UKHyRQ/mqdefault.jpg",
       "tags": [
         "QuickFile HTML templates",
@@ -812,7 +812,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you'll get a clear tour of the QuickFile interface. We cover the main navigation methods and introduce five key areas: Sales, Purchases, Banking, Reports, and Account Settings. This overview helps you understand where to find essential features before starting your bookkeeping.\n\nYou'll learn how to use the dashboard, top menu, plus icon, and QuickSearch to move around QuickFile efficiently. The video explains the purpose of each main area, so you know where to manage customers, suppliers, bank transactions, reports, and account settings.\n\nTimestamps:\n00:00 Title\n00:21 What We Will Cover\n00:46 The QuickFile Dashboard\n01:03 Navigation Options\n01:39 The QuickSearch Option\n02:01 The Sales Menu\n02:29 The Purchase Menu\n02:55 The Banking Menu\n03:35 The Reports Menu\n04:01 The Account Settings Menu\n04:30 Summary & Key Takeaways\n04:59 Closing\n\nFor more information, see our full support article:\nhttps://www.quickfile.co.uk/support/interface-tour\n\n#QuickFile #Bookkeeping #AccountingSoftware #SmallBusiness #Finance",
       "published": "2026-09-14T16:19:48Z",
       "duration": 268,
-      "views": 27,
+      "views": 28,
       "thumbnail": "https://i.ytimg.com/vi/TPA37PBbCtM/mqdefault.jpg",
       "tags": [
         "QuickFile QuickSearch",
@@ -1038,7 +1038,7 @@ window.QF_VIDEOS = {
       "description": "In this QuickFile support video, you will learn how to integrate your HMRC Agent Services Account with QuickFile Affinity. We cover what Agent Services Accounts are, how to link your account in QuickFile, create Agent Filing Links for your client profiles, and revoke access when needed.\n\nThis step-by-step guide helps agents manage VAT returns and Self Assessments directly with HMRC through QuickFile, making client account management more efficient. Whether you are linking your Agent Services Account for the first time or managing access across multiple profiles, this video provides clear instructions.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:19 Agent Services Accounts\n00:32 Linking ASA in Affinity\n00:53 Access Across Profiles\n01:25 Agent Filing Links\n02:01 Revoking Access\n02:16 Summary & Key Takeaways\n02:30 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/hmrc-agent-services-account-integration/25042\n\nFor additional QuickFile help and guides, please visit our support resources and watch our other support videos.\n\n#QuickFile #HMRC #AgentServicesAccount #VATReturns #SelfAssessment",
       "published": "2026-09-12T09:00:29Z",
       "duration": 151,
-      "views": 24,
+      "views": 26,
       "thumbnail": "https://i.ytimg.com/vi/iT1yn_QhxK4/mqdefault.jpg",
       "tags": [
         "Accounting software UK",
@@ -1515,7 +1515,7 @@ window.QF_VIDEOS = {
       "description": "Vat Bridging in QuickFile\n\nAre you looking for a simple, cost-effective way to file your Making Tax Digital (MTD) VAT returns directly from Excel or CSV spreadsheets? 📊✨\n\nIn this video, we guide you step-by-step through using the QuickFile VAT Bridging Module. \n\nIf you prefer keeping your sales and purchase ledgers in spreadsheets rather than switching to a full accounting platform, VAT Bridging creates a direct digital bridge between your files and HMRC’s MTD filing interface.\n\n---------------------------------------------------\n🔑 KEY HIGHLIGHTS FROM THIS TUTORIAL\n---------------------------------------------------\n• What is VAT Bridging? How it links existing spreadsheet records with HMRC without changing your software.\n• Flexible File Support: Works with single-sheet, multi-sheet Excel files (.xls, .xlsx), or CSV files.\n• Pricing: Try your first VAT Bridging return for FREE! Accessible afterwards at no extra cost with an active Power User Subscription or via an Affinity managed account.\n• Setup Mapping: How to specify the exact Sheet Name, Column letters, and Row numbers for Boxes 1 through 9.\n\n---------------------------------------------------\n🔗 USEFUL LINKS\n---------------------------------------------------\n• Official QuickFile VAT Bridging Article: https://support.quickfile.co.uk/t/vat-bridging/26619\n• QuickFile Website: https://www.quickfile.co.uk\n\n#QuickFile #VATBridging #MTDVAT #HMRC #ExcelBookkeeping #UKTax #SmallBusinessUK #AccountingSoftware #MakingTaxDigital #Bookkeeping",
       "published": "2026-08-10T10:24:03Z",
       "duration": 227,
-      "views": 24,
+      "views": 25,
       "thumbnail": "https://i.ytimg.com/vi/-bGyDAFxE24/mqdefault.jpg",
       "tags": [
         "#AccountingSoftware",
@@ -1536,7 +1536,7 @@ window.QF_VIDEOS = {
       "description": "Master VAT Returns in QuickFile with this step-by-step tutorial! \n\nWhether you're using Cash Accounting, Accrual Accounting, or the Flat Rate Scheme (FRS), learn how to configure your account, calculate your return, handle adjustments, and submit directly to HMRC via Making Tax Digital (MTD).\n\nIn this video, we cover key concepts from the official QuickFile guide:\n• Configuring your VAT schedule & accounting method in Company Settings\n• How QuickFile handles Cash Accounting, Accrual, and Flat Rate schemes\n• Preparing and previewing your VAT return\n• Downloading CSV calculation backing reports to inspect your totals\n• Making manual box adjustments and documenting evidence\n• Handling prepayments, VAT-inclusive invoicing, and pre-dated entries\n• Rolling back unsubmitted returns and using the VAT Bridging module\n\n🔗 USEFUL LINKS\n• QuickFile VAT Returns Guide: https://support.quickfile.co.uk/t/vat-returns-guide/8910\n• HMRC Making Tax Digital (MTD) Information: https://www.gov.uk/government/publications/making-tax-digital-for-vat\n\nIf you found this guide helpful, please LIKE, COMMENT, and SUBSCRIBE for more UK bookkeeping and QuickFile tutorials!",
       "published": "2026-08-10T10:20:59Z",
       "duration": 423,
-      "views": 70,
+      "views": 71,
       "thumbnail": "https://i.ytimg.com/vi/cm1jrYbZ0_w/mqdefault.jpg",
       "tags": [
         "#AccountingTutorial",
@@ -1631,7 +1631,7 @@ window.QF_VIDEOS = {
       "description": "Submit a UK Property Cumulative Update in QuickFile | MTD for Income Tax Self Assessment\n\nIn this video, we'll show you how to create and submit a Cumulative Update for a UK Property income source using QuickFile as part of Making Tax Digital (MTD) for Income Tax Self Assessment.\n\nWe'll walk through the complete submission workflow, including setting up your property nominal mappings, generating the update, reviewing your figures, saving drafts, and submitting your update to HMRC.\n\nIn this video you'll learn how to:\n\n* Navigate to the Self Assessment workflow\n* Connect your HMRC account\n* Activate the required Power User subscription\n* Configure your UK Property nominal account mappings\n* Generate a new Cumulative Update\n* Resolve missing nominal mapping errors\n* Review your figures by HMRC categories or nominal codes\n* Check your figures against your Profit and Loss report\n* Save a submission as a draft\n* Access and continue draft submissions\n* Submit your Cumulative Update to HMRC\n\nPlease note: This video covers UK Property income sources only.\n\nIf you need to submit:\n\n* A Self Employed income source\n* A combined Self Employed and UK * Property submission\n\n...please see the other tutorials available on our channel.\n\nWe'll also be publishing dedicated videos covering additional features, including:\n\n* Apportioning expenses\n* Sharing updates \n* Advanced Self Assessment options\n* Other Making Tax Digital workflows\n\nFor detailed written guidance, including the full Cumulative Update process, please see our support article",
       "published": "2026-07-29T20:16:22Z",
       "duration": 281,
-      "views": 142,
+      "views": 143,
       "thumbnail": "https://i.ytimg.com/vi/8_r_r199HE0/mqdefault.jpg",
       "tags": [
         "#AccountingSoftware",
@@ -1692,7 +1692,7 @@ window.QF_VIDEOS = {
       "description": "Connect Your HMRC Tax Account to QuickFile | VAT (Making Tax Digital) Setup Guide\n\nIn this QuickFile tutorial, we'll show you how to connect your HMRC Tax Account to QuickFile for VAT filing.\n\nOnce connected, you'll be able to view your VAT obligations and prepare, preview, and submit your VAT returns directly from QuickFile using HMRC's Making Tax Digital (MTD) service.\n\nIn this video you'll learn how to:\n\nConnect your HMRC Tax Account to QuickFile\nChoose the correct HMRC account type\nAuthorise the connection with HMRC\nCheck your connection status\nLink your HMRC account to your VAT settings\nPrepare and submit your VAT return through QuickFile\n\nWhether you're setting up MTD for the first time or reconnecting an existing account, this step-by-step guide will help you get everything configured correctly.\n\nFor more QuickFile tutorials and accounting tips, subscribe to our channel and visit the QuickFile Knowledge Base for additional guides and support.\n\n#QuickFile #MakingTaxDigital #MTD #VAT #HMRC #Bookkeeping #AccountingSoftware #SmallBusiness #VATReturns",
       "published": "2026-07-27T13:50:29Z",
       "duration": 124,
-      "views": 46,
+      "views": 48,
       "thumbnail": "https://i.ytimg.com/vi/9OPYXPXQmrc/mqdefault.jpg",
       "tags": []
     },
@@ -1712,7 +1712,7 @@ window.QF_VIDEOS = {
       "description": "Create Your QuickFile Account | Step-by-Step Registration Guide\n\nGetting started with QuickFile is quick and easy. In this video, we'll show you how to create your QuickFile account, activate it, and log in for the first time.\n\nQuickFile is a cloud-based accounting platform designed for businesses, sole traders, and landlords. It helps you keep your accounting records organised and supports Making Tax Digital (MTD) for VAT and Making Tax Digital for Income Tax Self Assessment (MTD ITSA).\n\nIn this guide, you'll learn how to:\nCreate a new QuickFile account\nChoose your unique QuickFile login URL\nComplete the registration process\nActivate your account via email\nLog in for the first time\nBookmark your unique QuickFile login page for easy access\n\nWhether you're setting up QuickFile for a new business or registering as a sole trader or landlord, this tutorial will help you get started in just a few minutes.\n\nIf you found this guide helpful, please consider liking the video and subscribing for more QuickFile tutorials, tips, and walkthroughs.",
       "published": "2026-07-24T14:43:19Z",
       "duration": 148,
-      "views": 19,
+      "views": 21,
       "thumbnail": "https://i.ytimg.com/vi/ochOpf5AHCw/mqdefault.jpg",
       "tags": []
     }
