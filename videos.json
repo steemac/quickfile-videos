@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-09T11:55:26.698Z",
+  "generated": "2026-10-10T11:12:12.051Z",
   "source": "api",
   "channel": {
     "id": "UCsztsJV-92UraKrJ90cBTOg",
     "title": "QuickFile Help Guides",
     "url": "https://www.youtube.com/@QuickFileHelpGuides",
-    "subscribers": 15
+    "subscribers": 14
   },
   "count": 72,
   "videos": [
@@ -219,7 +219,7 @@
       "description": "In this QuickFile support video, you will learn how to personalise your invoice design to better reflect your brand. We cover uploading your company logo, adjusting invoice labels, setting default notes and payment terms, choosing invoice styles, and modifying the client area design.\n\nQuickFile makes it easy to create professional invoices by allowing you to control key elements such as invoice metadata, default text blocks, and visual themes. You will also discover how to customise the online client portal for a consistent brand experience.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Add Your Logo\n00:42 Control Invoice Labels\n01:04 Set Default Notes & Terms\n01:33 Use Invoice Style Gallery\n02:03 Client Area Design\n02:27 Summary & Key Takeaways\n02:39 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/customising-your-invoice-design/8869\n\nFor additional QuickFile help and guides, please visit our support resources and explore our other support videos.\n\n#QuickFile #InvoiceDesign #SmallBusiness",
       "published": "2026-09-28T12:11:16Z",
       "duration": 161,
-      "views": 6,
+      "views": 7,
       "thumbnail": "https://i.ytimg.com/vi/Bs-_fkTB2aE/mqdefault.jpg",
       "tags": [
         "QuickFile guide",
@@ -270,7 +270,7 @@
       "description": "In this QuickFile support video, learn how to use the Multi-Invoice Entry Form to quickly input up to fifty sales or purchase invoices in one screen. We cover how to start the bulk entry form, enter invoice details efficiently, and use advanced options for Affinity users. You will also discover how to flag invoices as paid and streamline your bookkeeping process.\n\nThis video is ideal for QuickFile users looking to speed up invoice entry and manage multiple invoices from a single grid interface. Whether you are handling sales or purchase invoices, the multi-invoice form offers a fast and flexible way to process your data.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:19 Why Use Multi-Invoice Entry\n00:40 Start Multi Invoice Entry\n00:59 Entering Invoice Details\n01:15 Change Defaults Easily\n01:33 Flag Invoices as Paid\n01:51 Use for Purchase Invoices\n02:05 Advanced Options for Affinity Users\n02:24 Affinity Account Benefits\n02:39 Summary & Key Takeaways\n02:53 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/the-multi-invoice-entry-form/8884\n\nFor additional QuickFile help and guides, please visit our support resources and explore other videos on our channel.\n\n#QuickFile #Accounting #InvoiceEntry #Bookkeeping #Affinity #SmallBusiness",
       "published": "2026-09-27T10:30:17Z",
       "duration": 185,
-      "views": 14,
+      "views": 16,
       "thumbnail": "https://i.ytimg.com/vi/BtSK-cTYTlA/mqdefault.jpg",
       "tags": [
         "Affinity accounting software",
@@ -346,7 +346,7 @@
       "description": "In this QuickFile support video, learn how to create and manage Supplementary Pages to enhance your invoices and estimates. We cover creating HTML templates, attaching supplementary pages to documents, using custom tokens for dynamic client details, and integrating these pages with recurring invoices.\n\nDiscover how Supplementary Pages become a seamless part of your client documents, including how to enable pre-acceptance notifications and preview client views. This video also explains subscription requirements and how to convert existing documents into HTML templates.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:17 What Are Supplementary Pages?\n00:37 Subscription Requirement\n00:54 Create Your Template\n01:16 Example HTML Template\n01:33 Attach Template to Invoice\n01:54 Using Custom Tokens\n02:07 Pre-Acceptance Notifications\n02:26 Client View\n02:47 Recurring Invoices\n03:04 Convert Existing Documents\n03:23 Summary & Key Takeaways\n03:36 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/supplementary-pages/16626\n\nFor more QuickFile help and guides, please explore our other support videos and resources.\n\n#QuickFile #Invoices #AccountingSoftware #BusinessTools #InvoiceTemplates",
       "published": "2026-09-27T09:45:33Z",
       "duration": 248,
-      "views": 10,
+      "views": 11,
       "thumbnail": "https://i.ytimg.com/vi/n9ZJ3UKHyRQ/mqdefault.jpg",
       "tags": [
         "QuickFile HTML templates",
@@ -785,7 +785,7 @@
       "description": "In this QuickFile support video, you will learn the essentials of landlord bookkeeping. We cover how to set up a landlord account, use the landlord dashboard, tag deposits and expenses correctly, and track landlord obligations efficiently. The video also explains how to migrate existing accounts and manage recurring rent demands.\n\nQuickFile’s landlord features help you organise your rental properties, tenants, and financial records in one place. You’ll see how to create property and tenant records, automate rent invoicing, and keep on top of important reminders such as safety checks and contract renewals.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Landlord Account Setup\n01:03 Landlord Dashboard Features\n01:34 Initial Record creation\n02:03 Property and Tenant Records\n02:37 Recurring Rent Demands\n03:12 Bookkeeping Tips for Landlords\n03:57 Track Landlord Obligations\n04:33 Separate Accounts Recommended\n04:59 Summary & Key Takeaways\n05:15 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/landlord-bookkeeping-basics/47318\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #LandlordBookkeeping #RentalProperty #BookkeepingTips #LandlordDashboard",
       "published": "2026-09-19T09:00:21Z",
       "duration": 302,
-      "views": 15,
+      "views": 16,
       "thumbnail": "https://i.ytimg.com/vi/Njbd9mSaITI/mqdefault.jpg",
       "tags": [
         "QuickFile landlord",
@@ -914,7 +914,7 @@
       "description": "Learn how to import sales and purchase invoices into QuickFile using a CSV file. This step-by-step video covers file formatting requirements, core data fields, handling multi-line items, and importing paid invoices.\n\nWe also demonstrate how to configure default invoice settings in advance and walk through the automated column mapping process using the Data Import Wizard.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:19 Before Importing\n01:07 Required Minimum Fields\n01:26 Importing Paid Invoices\n01:43 Importing Invoices with contact information\n01:52 Multi-Line Invoices\n02:04 Set up Defaults first\n02:24 Automatic Column Mapping\n02:36 Data Import Demonstration\n03:44 Summary & Key Takeaways\n03:58 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/importing-sales-and-purchase-invoices/8885\n\nFor more QuickFile help and guides, please see the QuickFile support resources and our other support videos.\n\n#QuickFile #Bookkeeping #Invoicing #DataImport #AccountingSoftware",
       "published": "2026-09-13T09:00:26Z",
       "duration": 230,
-      "views": 21,
+      "views": 22,
       "thumbnail": "https://i.ytimg.com/vi/9Mg1xG2-FtY/mqdefault.jpg",
       "tags": [
         "CSV invoice import",
@@ -1037,7 +1037,7 @@
       "description": "In this QuickFile support video, you will learn how to integrate your HMRC Agent Services Account with QuickFile Affinity. We cover what Agent Services Accounts are, how to link your account in QuickFile, create Agent Filing Links for your client profiles, and revoke access when needed.\n\nThis step-by-step guide helps agents manage VAT returns and Self Assessments directly with HMRC through QuickFile, making client account management more efficient. Whether you are linking your Agent Services Account for the first time or managing access across multiple profiles, this video provides clear instructions.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:19 Agent Services Accounts\n00:32 Linking ASA in Affinity\n00:53 Access Across Profiles\n01:25 Agent Filing Links\n02:01 Revoking Access\n02:16 Summary & Key Takeaways\n02:30 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/hmrc-agent-services-account-integration/25042\n\nFor additional QuickFile help and guides, please visit our support resources and watch our other support videos.\n\n#QuickFile #HMRC #AgentServicesAccount #VATReturns #SelfAssessment",
       "published": "2026-09-12T09:00:29Z",
       "duration": 151,
-      "views": 26,
+      "views": 28,
       "thumbnail": "https://i.ytimg.com/vi/iT1yn_QhxK4/mqdefault.jpg",
       "tags": [
         "Accounting software UK",
