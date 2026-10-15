@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:15:27.075Z",
+  "generated": "2026-10-15T09:57:25.492Z",
   "source": "api",
   "channel": {
     "id": "UCsztsJV-92UraKrJ90cBTOg",
@@ -15,7 +15,7 @@
       "description": "In this QuickFile support video, we walk through Making Tax Digital for Income Tax Self Assessment (MTD ITSA) from start to finish. We cover who needs to join, how many QuickFile accounts you need, signing up with HMRC, getting the right subscription, connecting your HMRC tax account, setting up your nominal mappings, and preparing and submitting your quarterly cumulative updates.\n\nWe also cover the end of the tax year: business adjustments (BSAS), trading losses, other income and your final declaration, plus answers to the questions we're asked most often.\n\nTimestamps:\n00:00 Introduction\n00:40 Part 1: Before you start\n04:45 Part 2: Connect QuickFile to HMRC\n08:34 Part 3: Quarterly cumulative updates\n15:52 Part 4: End of the tax year\n18:42 Part 5: Common questions\n21:17 Summary\n\nFor the full step-by-step guide and support articles, see:\nhttps://support.quickfile.co.uk/c/knowledgebase/self-assessment/57\n\nCheck how many QuickFile accounts you need:\nhttps://www.quickfile.co.uk/resources/mtd-account-configurator\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #MakingTaxDigital #MTDITSA #SelfAssessment \n\nQuickFile, Making Tax Digital, MTD for Income Tax, MTD ITSA, Self Assessment, quarterly updates, cumulative updates, final declaration, HMRC, sole trader, landlord, UK property, foreign property, nominal mappings, QuickFile tutorial, QuickFile help",
       "published": "2026-10-13T15:23:29Z",
       "duration": 1317,
-      "views": 2,
+      "views": 6,
       "thumbnail": "https://i.ytimg.com/vi/ToC2YIYstJs/mqdefault.jpg",
       "tags": []
     },
@@ -51,7 +51,7 @@
       "description": "In this QuickFile support video, you will learn how to import your accounting data from another system efficiently. We cover three main import methods, how to choose the correct start date depending on your VAT status, and the process of exporting and uploading your trial balance as a CSV file. \n\nThe video also demonstrates how to map your old nominal ledger codes to QuickFile’s system and how to manually enter opening balances if CSV export is not available. This guide ensures your accounting history is accurately transferred, helping you maintain correct financial reports from day one.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:18 Why Import Data?\n00:51 Three Import Methods\n01:12 Choosing Your Start Date\n01:34 Export Trial Balance\n01:55 Upload Trial Balance to QuickFile\n02:27 QuickFile Demonstration\n03:38 Manual Journal Entry\n04:20 Summary & Key Takeaways\n04:33 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/importing-data-from-another-system/8936\n\nInteractive Guide\nhttps://www.quickfile.co.uk/home/startup\n\nFor further QuickFile help and guides, please visit our support resources and YouTube channel.\n\n#QuickFile #Accounting #DataImport #TrialBalance #Bookkeeping",
       "published": "2026-10-04T09:00:04Z",
       "duration": 257,
-      "views": 5,
+      "views": 6,
       "thumbnail": "https://i.ytimg.com/vi/R5q9hn7OalM/mqdefault.jpg",
       "tags": [
         "QuickFile accounting setup",
@@ -458,7 +458,7 @@
       "description": "Discover how QuickFile's AI Receipt Analysis can simplify your bookkeeping by automatically extracting key details from your receipts and invoices. In this video, we cover how the AI scans and processes your documents, matches data with previous entries, and learns to improve accuracy over time.\n\nLearn about the charges associated with AI receipt analysis, how to enable or disable the feature, and what to expect regarding processing times and limitations. This guide will help you get the most out of QuickFile's AI tools while managing your credit balance effectively.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:17 How AI Extracts Data\n00:46 Matching and Learning\n01:15 Charges for AI Receipt Analysis\n01:53 Enable or Disable AI\n02:29 Processing Time\n02:51 Limitations to Note\n03:16 Improving Accuracy\n03:32 Summary & Key Takeaways\n03:44 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/artificial-intelligence-ai-powered-receipt-analysis/62529\n\nFor additional QuickFile help and guides, please explore our support resources and other videos on the QuickFile channel.\n\n#QuickFile #AIReceiptAnalysis #Bookkeeping #AccountingSoftware #ReceiptScanning",
       "published": "2026-09-26T09:45:04Z",
       "duration": 211,
-      "views": 9,
+      "views": 11,
       "thumbnail": "https://i.ytimg.com/vi/XCe9oxn7Lho/mqdefault.jpg",
       "tags": [
         "AI receipt analysis",
@@ -795,7 +795,7 @@
       "description": "In this QuickFile support video, you will learn the essentials of landlord bookkeeping. We cover how to set up a landlord account, use the landlord dashboard, tag deposits and expenses correctly, and track landlord obligations efficiently. The video also explains how to migrate existing accounts and manage recurring rent demands.\n\nQuickFile’s landlord features help you organise your rental properties, tenants, and financial records in one place. You’ll see how to create property and tenant records, automate rent invoicing, and keep on top of important reminders such as safety checks and contract renewals.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Landlord Account Setup\n01:03 Landlord Dashboard Features\n01:34 Initial Record creation\n02:03 Property and Tenant Records\n02:37 Recurring Rent Demands\n03:12 Bookkeeping Tips for Landlords\n03:57 Track Landlord Obligations\n04:33 Separate Accounts Recommended\n04:59 Summary & Key Takeaways\n05:15 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/landlord-bookkeeping-basics/47318\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #LandlordBookkeeping #RentalProperty #BookkeepingTips #LandlordDashboard",
       "published": "2026-09-19T09:00:21Z",
       "duration": 302,
-      "views": 16,
+      "views": 18,
       "thumbnail": "https://i.ytimg.com/vi/Njbd9mSaITI/mqdefault.jpg",
       "tags": [
         "QuickFile landlord",
@@ -821,7 +821,7 @@
       "description": "In this QuickFile support video, you'll get a clear tour of the QuickFile interface. We cover the main navigation methods and introduce five key areas: Sales, Purchases, Banking, Reports, and Account Settings. This overview helps you understand where to find essential features before starting your bookkeeping.\n\nYou'll learn how to use the dashboard, top menu, plus icon, and QuickSearch to move around QuickFile efficiently. The video explains the purpose of each main area, so you know where to manage customers, suppliers, bank transactions, reports, and account settings.\n\nTimestamps:\n00:00 Title\n00:21 What We Will Cover\n00:46 The QuickFile Dashboard\n01:03 Navigation Options\n01:39 The QuickSearch Option\n02:01 The Sales Menu\n02:29 The Purchase Menu\n02:55 The Banking Menu\n03:35 The Reports Menu\n04:01 The Account Settings Menu\n04:30 Summary & Key Takeaways\n04:59 Closing\n\nFor more information, see our full support article:\nhttps://www.quickfile.co.uk/support/interface-tour\n\n#QuickFile #Bookkeeping #AccountingSoftware #SmallBusiness #Finance",
       "published": "2026-09-14T16:19:48Z",
       "duration": 268,
-      "views": 35,
+      "views": 38,
       "thumbnail": "https://i.ytimg.com/vi/TPA37PBbCtM/mqdefault.jpg",
       "tags": [
         "QuickFile QuickSearch",
@@ -847,7 +847,7 @@
       "description": "In this QuickFile support video, you will learn the essentials of bookkeeping for a Limited Company. We cover key topics such as Directors' Loan Accounts, recording out-of-pocket expenses, initial share capital entries, choosing the correct expense categories, handling card payment providers, and recording daily sales.\n\nThis guide explains how QuickFile simplifies managing company finances with features tailored for Limited Companies, including managing multiple directors’ loan accounts and reconciling merchant accounts. Whether you are new to Limited Company bookkeeping or looking to streamline your accounting process, this video offers clear, practical advice.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:18 Separate Company Finances\n01:17 Directors’ Loan Account\n02:00 Multiple Directors’ Loan Accounts\n02:17 Record Out-of-Pocket Expenses\n03:47 DLA Balance Meaning\n03:58 Initial Share Capital\n04:15 Choosing Expense Categories\n05:10 Card Payment Providers\n06:18 Recording Daily Sales\n06:46 Summary & Key Takeaways\n07:02 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/limited-company-bookkeeping-the-basics/8809\n\nFor additional QuickFile help and guides, please visit our support resources and explore other videos on our channel.\n\n#QuickFile #Bookkeeping #LimitedCompany #AccountingBasics #DirectorsLoanAccount",
       "published": "2026-09-13T09:00:37Z",
       "duration": 364,
-      "views": 18,
+      "views": 19,
       "thumbnail": "https://i.ytimg.com/vi/3UejC_9wpU8/mqdefault.jpg",
       "tags": [
         "Accounting software UK",
@@ -1023,7 +1023,7 @@
       "description": "In this QuickFile support video, you will learn how to correctly record disbursements in your accounts. We cover creating nominal codes, recording purchase invoices, raising client invoices, tagging payments accurately, and understanding the VAT treatment for disbursements and service fees.\n\nThis step-by-step guide ensures you handle disbursements as an agent for your clients, keeping your business accounts accurate and compliant with HMRC VAT rules. Using QuickFile’s features, including project tagging, helps you track disbursements and fees clearly per client project.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:16 Disbursements Defined\n00:28 Disbursement Conditions\n00:39 Create Nominal Codes\n00:48 Enable Nominal for Invoices\n00:59 Record Disbursement Purchase\n01:11 Tag Supplier Payment\n01:18 Create Client Invoices\n01:30 Tag Client Payment\n01:38 VAT Treatment\n01:49 Manual Verification Required\n01:56 Project Tracking\n02:02 Summary & Key Takeaways\n02:17 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/how-to-record-disbursements/59107\n\nFor additional help and guides, please visit the QuickFile support resources and explore our other support videos.\n\n#QuickFile #Disbursements #Accounting #VAT #Bookkeeping",
       "published": "2026-09-12T09:00:32Z",
       "duration": 131,
-      "views": 13,
+      "views": 16,
       "thumbnail": "https://i.ytimg.com/vi/FFViB3yP3uk/mqdefault.jpg",
       "tags": [
         "HMRC VAT rules",
@@ -1047,7 +1047,7 @@
       "description": "In this QuickFile support video, you will learn how to integrate your HMRC Agent Services Account with QuickFile Affinity. We cover what Agent Services Accounts are, how to link your account in QuickFile, create Agent Filing Links for your client profiles, and revoke access when needed.\n\nThis step-by-step guide helps agents manage VAT returns and Self Assessments directly with HMRC through QuickFile, making client account management more efficient. Whether you are linking your Agent Services Account for the first time or managing access across multiple profiles, this video provides clear instructions.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:19 Agent Services Accounts\n00:32 Linking ASA in Affinity\n00:53 Access Across Profiles\n01:25 Agent Filing Links\n02:01 Revoking Access\n02:16 Summary & Key Takeaways\n02:30 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/hmrc-agent-services-account-integration/25042\n\nFor additional QuickFile help and guides, please visit our support resources and watch our other support videos.\n\n#QuickFile #HMRC #AgentServicesAccount #VATReturns #SelfAssessment",
       "published": "2026-09-12T09:00:29Z",
       "duration": 151,
-      "views": 31,
+      "views": 33,
       "thumbnail": "https://i.ytimg.com/vi/iT1yn_QhxK4/mqdefault.jpg",
       "tags": [
         "Accounting software UK",
@@ -1172,7 +1172,7 @@
       "description": "In this QuickFile support video, you'll learn the essentials of sole trader bookkeeping. We cover how to separate business and personal finances, use the Proprietor Drawings Account, and correctly record investments and withdrawals. You'll also discover how to choose the right expense categories and manage card payments effectively.\n\nThe video explains how to handle daily sales using the cash register feature, making bookkeeping easier for retail and hospitality businesses. QuickFile’s straightforward approach helps sole traders keep their accounts accurate and organised.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:23 Separate Business and Personal\n01:14 Use a Business Account\n01:24 Proprietor Drawings Account\n01:35 Record Initial Investment\n01:47 Pay Business Expense Personally\n02:11 Withdraw Money from Business\n02:41 Choosing Expense Categories\n04:14 Card Payment Providers\n05:23 Recording Daily Sales\n05:51 Summary & Key Takeaways\n06:08 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/sole-trader-bookkeeping-the-basics/8808\n\nFor more QuickFile help and guides, please visit our support resources and watch our other videos.\n\n#QuickFile #SoleTrader #BookkeepingBasics #SmallBusiness #Accounting",
       "published": "2026-09-12T09:00:19Z",
       "duration": 324,
-      "views": 28,
+      "views": 29,
       "thumbnail": "https://i.ytimg.com/vi/FTr_MrQyAdU/mqdefault.jpg",
       "tags": [
         "Proprietor Drawings Account",
@@ -1266,7 +1266,7 @@
       "description": "Learn how to create and manage your first sales invoice in QuickFile. This step-by-step video guide walks you through setting up client details, setting invoice dates, entering line items, and applying project tags or VAT options.\n\nWe also demonstrate how to customise your invoice styling, preview and send invoices via email or post, and log customer payments directly to update your accounts.\n\nTimestamps:\n00:00 Title\n00:08 What We Will Cover\n00:22 Create a New Invoice\n00:34 Invoice Date and Due Dates\n00:45 Invoice Item Lines\n01:16 Project Tags & Vat Options\n01:44 Notes and Terms\n01:51 QuickFile Demonstration\n03:20 Sending invoices\n03:38 Logging Payments\n03:45 Customise Invoice Design\n04:01 Additional Features\n04:25 Summary\n04:53 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/create-your-first-invoice/8813\n\nFor more QuickFile help and guides, please see the QuickFile support resources and our other support videos.\n\n#QuickFile #Invoicing #UKAccounting #SmallBusiness #Bookkeeping",
       "published": "2026-09-05T08:00:20Z",
       "duration": 276,
-      "views": 27,
+      "views": 28,
       "thumbnail": "https://i.ytimg.com/vi/55wixRTSt-g/mqdefault.jpg",
       "tags": [
         "QuickFile",
@@ -1288,7 +1288,7 @@
       "description": "In this video, we provide an overview of QuickFile Affinity, designed for accounting professionals and multi-company owners who need to manage multiple QuickFile profiles from a single login.\n\nYou will learn how to add and link client profiles, understand account ownership, organise your dashboard with tags and pins, and manage team access control. We also touch on using the Affinity Workspace and custom branding options.\n\nTimestamps:\n00:00 Title\n00:07 What We Will Cover\n00:19 What is Affinity\n00:40 Adding Profiles\n00:54 Account Ownership\n01:06 Dashboard Organisation\n01:18 Team Access Control\n01:35 Account Navigation\n01:48 Workspace & Branding\n02:05 Summary & Key Takeaways\n02:19 Closing\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/quickfile-affinity-overview/8828\n\nFor more QuickFile help and guides, please see the QuickFile support resources and our other support videos.\n\n#QuickFile #QuickFileAffinity #AccountingSoftware #Bookkeeping #AccountantTools",
       "published": "2026-09-04T17:18:25Z",
       "duration": 144,
-      "views": 16,
+      "views": 17,
       "thumbnail": "https://i.ytimg.com/vi/Hik4X_2QJSg/mqdefault.jpg",
       "tags": [
         "Affinity dashboard",
@@ -1480,7 +1480,7 @@
       "description": "Learn how to manually import your bank statements into QuickFile accounting software step-by-step!\n\nIn this quick tutorial, we walk through importing CSV and statement files, using pre-built major bank templates, setting up custom CSV column mapping for unlisted banks, avoiding duplicate transactions, and saving custom templates for future uploads.\n\n🔗 Related Links & Resources\n📄 Official QuickFile Guide: https://support.quickfile.co.uk/t/importing-your-bank-statement/8823\n\n💡 What You'll Learn in This Video:\nWhich file formats QuickFile accepts (CSV, OFX, QBO, QIF, TXT).\n\nHow to upload bank statements in under a minute using standard bank templates.\n\nHow to map custom CSV columns (Date, Amount, Description, Money In / Out).\n\nHow QuickFile automatically prevents double-counting duplicate transactions.\n\nSupport Article - https://support.quickfile.co.uk/t/importing-your-bank-statement/8823\n\n👍 Enjoyed the video? Don't forget to Like, Subscribe, and hit the notification bell for more QuickFile tutorials and accounting tips!",
       "published": "2026-08-14T11:01:17Z",
       "duration": 277,
-      "views": 25,
+      "views": 26,
       "thumbnail": "https://i.ytimg.com/vi/K4VindLn9ws/mqdefault.jpg",
       "tags": [
         "#Accounting",
@@ -1545,7 +1545,7 @@
       "description": "Master VAT Returns in QuickFile with this step-by-step tutorial! \n\nWhether you're using Cash Accounting, Accrual Accounting, or the Flat Rate Scheme (FRS), learn how to configure your account, calculate your return, handle adjustments, and submit directly to HMRC via Making Tax Digital (MTD).\n\nIn this video, we cover key concepts from the official QuickFile guide:\n• Configuring your VAT schedule & accounting method in Company Settings\n• How QuickFile handles Cash Accounting, Accrual, and Flat Rate schemes\n• Preparing and previewing your VAT return\n• Downloading CSV calculation backing reports to inspect your totals\n• Making manual box adjustments and documenting evidence\n• Handling prepayments, VAT-inclusive invoicing, and pre-dated entries\n• Rolling back unsubmitted returns and using the VAT Bridging module\n\n🔗 USEFUL LINKS\n• QuickFile VAT Returns Guide: https://support.quickfile.co.uk/t/vat-returns-guide/8910\n• HMRC Making Tax Digital (MTD) Information: https://www.gov.uk/government/publications/making-tax-digital-for-vat\n\nIf you found this guide helpful, please LIKE, COMMENT, and SUBSCRIBE for more UK bookkeeping and QuickFile tutorials!",
       "published": "2026-08-10T10:20:59Z",
       "duration": 423,
-      "views": 73,
+      "views": 74,
       "thumbnail": "https://i.ytimg.com/vi/cm1jrYbZ0_w/mqdefault.jpg",
       "tags": [
         "#AccountingTutorial",
@@ -1685,7 +1685,7 @@
       "description": "Connecting Your HMRC Tax Account to QuickFile for Self Assessment\n\nIn this video, we’ll show you how to connect your HMRC Tax Account to QuickFile, allowing you to access Self Assessment features and manage your tax obligations directly from within your QuickFile account.\n\nYou’ll learn how to:\n\n✅ Open HMRC Connect in QuickFile\n✅ Add a new Self Assessment tax account\n✅ Enter your HMRC details and sign in securely\n✅ Authorise QuickFile to connect with HMRC\n✅ Check your connection status\n✅ Access the Self Assessment workflow\n\nOnce connected, you’ll be able to use QuickFile’s HMRC integration to help manage your Self Assessment process more efficiently.\n\nPlease note: Making Tax Digital for Income Tax Self Assessment is a Power User feature and requires an active Power User subscription to submit quarterly updates.\n\n📌 Useful navigation:\nReports → HMRC → Connect a New Tax Account\nReports → Self Assessment\n\nFor more QuickFile tutorials and guides, visit our YouTube channel or explore our Help Centre.\n\n#QuickFile #HMRC #SelfAssessment #MakingTaxDigital #AccountingSoftware #TaxReturns",
       "published": "2026-07-27T15:01:39Z",
       "duration": 138,
-      "views": 58,
+      "views": 61,
       "thumbnail": "https://i.ytimg.com/vi/FmKXiYGnSQY/mqdefault.jpg",
       "tags": [
         "#AccountingSoftware",
@@ -1711,7 +1711,7 @@
       "description": "Need to add a new team member or manage user access in QuickFile? In this tutorial, we'll show you how to add users, update their details, manage permissions, and remove team members when they're no longer needed.\n\nQuickFile allows you to add up to 20 users to your account, making it easy to collaborate while maintaining control over who has access to different areas of your accounting system.\n\nIn this video, you'll learn how to:\nAdd a new team member\nEdit existing user details\nChange a user's password\nManage user permissions and access\nDelete a team member\nUnderstand administrator-only actions\n\nYou'll also learn how QuickFile sends login details to new users automatically and how to provide these details manually if you prefer.\n\nFor more information, see our full support article:\nhttps://support.quickfile.co.uk/t/configuring-privileges-for-your-team/8896",
       "published": "2026-07-24T16:21:32Z",
       "duration": 133,
-      "views": 17,
+      "views": 18,
       "thumbnail": "https://i.ytimg.com/vi/vEUCvQpUVOU/mqdefault.jpg",
       "tags": []
     },
